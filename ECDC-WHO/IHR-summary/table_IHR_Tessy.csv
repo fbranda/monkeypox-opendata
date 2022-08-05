@@ -1,40 +1,40 @@
 "Country/Area","Number of cases identified through IHR and official public resources","Number of cases reported through TESSy"
-"Spain","4577","4577"
-"United Kingdom","2759","2724"
-"Germany","2724","2724"
-"France","2054","2054"
-"Netherlands","927","927"
-"Portugal","633","536"
-"Italy","505","505"
-"Belgium","482","482"
-"Switzerland","272","270"
-"Israel","146","0"
-"Austria","135","135"
-"Sweden","102","102"
-"Denmark","101","100"
-"Ireland","97","97"
-"Poland","63","63"
-"Norway","57","55"
-"Hungary","42","42"
-"Slovenia","37","37"
-"Greece","33","33"
-"Luxembourg","30","30"
-"Czechia","25","25"
-"Romania","22","22"
-"Finland","20","20"
-"Malta","17","17"
-"Croatia","12","12"
-"Serbia","10","0"
-"Iceland","10","9"
-"Estonia","8","8"
-"Slovakia","6","6"
-"Gibraltar","5","0"
-"Bulgaria","4","4"
-"Andorra","3","3"
-"Latvia","3","3"
-"Bosnia and Herzegovina","1","1"
-"Georgia","1","1"
-"Russian Federation","1","0"
-"Turkey","1","0"
-"Montenegro","1","0"
-"Total","15926","15624"
+"Spain",4577,4577
+"United Kingdom",2759,2724
+"Germany",2724,2724
+"France",2054,2054
+"Netherlands",927,927
+"Portugal",633,536
+"Italy",505,505
+"Belgium",482,482
+"Switzerland",272,270
+"Israel",146,0
+"Austria",135,135
+"Sweden",102,102
+"Denmark",101,100
+"Ireland",97,97
+"Poland",63,63
+"Norway",57,55
+"Hungary",42,42
+"Slovenia",37,37
+"Greece",33,33
+"Luxembourg",30,30
+"Czechia",25,25
+"Romania",22,22
+"Finland",20,20
+"Malta",17,17
+"Croatia",12,12
+"Serbia",10,0
+"Iceland",10,9
+"Estonia",8,8
+"Slovakia",6,6
+"Gibraltar",5,0
+"Bulgaria",4,4
+"Andorra",3,3
+"Latvia",3,3
+"Bosnia and Herzegovina",1,1
+"Georgia",1,1
+"Russian Federation",1,0
+"Turkey",1,0
+"Montenegro",1,0
+"Total",15926,15624
