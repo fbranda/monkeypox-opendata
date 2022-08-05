@@ -1,0 +1,34 @@
+country;confirmed;probable;unknown;total
+Andorra;3;0;0;3
+Austria;134;1;0;135
+Belgium;481;1;0;482
+Bosnia and Herzegovina;1;0;0;1
+Bulgaria;4;0;0;4
+Croatia;12;0;0;12
+Czechia;25;0;0;25
+Denmark;100;0;0;100
+Estonia;8;0;0;8
+Finland;20;0;0;20
+France;2054;0;0;2054
+Georgia;1;0;0;1
+Germany;2724;0;0;2724
+Greece;33;0;0;33
+Hungary;42;0;0;42
+Iceland;9;0;0;9
+Ireland;97;0;0;97
+Italy;505;0;0;505
+Latvia;3;0;0;3
+Luxembourg;30;0;0;30
+Malta;17;0;0;17
+Netherlands;927;0;0;927
+Norway;55;0;0;55
+Poland;52;11;0;63
+Portugal;536;0;0;536
+Romania;22;0;0;22
+Slovakia;6;0;0;6
+Slovenia;37;0;0;37
+Spain;4577;0;0;4577
+Sweden;102;0;0;102
+Switzerland;270;0;0;270
+United Kingdom;2637;87;0;2724
+Total;15524;100;0;15624
