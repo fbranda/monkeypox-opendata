@@ -2,7 +2,7 @@
 
 ## Contents
 
-This repository contains data extracted from the [ECDC-WHO/Europe surveillance bulletin](https://monkeypoxreport.ecdc.europa.eu/) and [Ministry of Health of Italy](https://www.salute.gov.it/portale/malattieInfettive/dettaglioSchedeMalattieInfettive.jsp?lingua=italiano&id=254&area=Malattie%20infettive&menu=indiceAZ&tab=1) bulletins starting from the 17 June 2022. 
+This repository contains data extracted from the [ECDC-WHO/Europe surveillance](https://monkeypoxreport.ecdc.europa.eu/) and [Ministry of Health of Italy](https://www.salute.gov.it/portale/malattieInfettive/dettaglioSchedeMalattieInfettive.jsp?lingua=italiano&id=254&area=Malattie%20infettive&menu=indiceAZ&tab=1) bulletins starting from the 17 June 2022. 
 
 ## Getting the data
 
