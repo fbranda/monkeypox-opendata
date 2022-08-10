@@ -37,10 +37,10 @@ up_mu <- mu_sd_from_sh_sc(up_sh, up_sc)$mu
 up_sd <- mu_sd_from_sh_sc(up_sh, up_sc)$sd
 
 mean_si <- (up_mu+lo_mu)/2
-std_mean_si <- (up_mu-lo_mu)/2/3
+std_mean_si <- (up_mu-lo_mu)/2/2
 
 std_si <- (up_sd+lo_sd)/2
-std_std_si <- (up_sd-lo_sd)/2/3
+std_std_si <- (up_sd-lo_sd)/2/2
 
 config <- make_config(
   list(
