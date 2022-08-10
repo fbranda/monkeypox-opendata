@@ -53,23 +53,23 @@ config <- make_config(
 
 # read data
 csv <- read.csv("https://github.com/fbranda/monkeypox-opendata/raw/main/ECDC-WHO/Epicurves/epicurve_by_country.csv")
-countries <- unique(csv$Country)
+countries <- unique(csv$country)
 
 # loop
-for(country in countries){
-  print(country)
-  df <- csv %>% filter(Country==country)
-  len <- length(df$Date)
+for(country_ in countries){
+  print(country_)
+  df <- csv %>% filter(country==country_)
+  len <- length(df$date)
   # ignore incidence less than 4 weeks
   if(len < 28) next
   # estimate Rt
-  res_parametric_si <- estimate_R(df$Cases, 
+  res_parametric_si <- estimate_R(df$cases, 
                                   method="uncertain_si",
                                   config = config
   )
-  write.csv(res_parametric_si$R, paste("estimates/", country, ".csv", sep = ""))
+  write.csv(res_parametric_si$R, paste("estimates/", country_, ".csv", sep = ""))
   # plot and save
-  pdf(file = paste("plots/", country, ".pdf", sep = ""))
+  pdf(file = paste("plots/", country_, ".pdf", sep = ""))
   plot(res_parametric_si, legend = FALSE)
   dev.off()
 }
