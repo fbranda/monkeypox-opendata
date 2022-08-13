@@ -42,6 +42,9 @@ std_mean_si <- (up_mu-lo_mu)/2/2
 std_si <- (up_sd+lo_sd)/2
 std_std_si <- (up_sd-lo_sd)/2/2
 
+print(round(std_mean_si, 2))
+print(round(std_std_si, 2))
+
 config <- make_config(
   list(
     mean_si = mean_si, std_mean_si = std_mean_si,
@@ -53,17 +56,17 @@ config <- make_config(
 
 # read data
 csv <- read.csv("https://github.com/fbranda/monkeypox-opendata/raw/main/ECDC-WHO/Epicurves/epicurve_by_country.csv")
-countries <- unique(csv$country)
+countries <- unique(csv$Country)
 
 # loop
 for(country_ in countries){
   print(country_)
-  df <- csv %>% filter(country==country_)
-  len <- length(df$date)
+  df <- csv %>% filter(Country==country_)
+  len <- length(df$Date)
   # ignore incidence less than 4 weeks
   if(len < 28) next
   # estimate Rt
-  res_parametric_si <- estimate_R(df$cases, 
+  res_parametric_si <- estimate_R(df$Cases, 
                                   method="uncertain_si",
                                   config = config
   )
