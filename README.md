@@ -213,7 +213,27 @@ monkeypox-opendata/
 | sexual_orientation     | String | Type of reported sexual orientations among cases of Monkeypox |
 | cases     | Integer | Distribution of confirmed cases by sexual orientation  |
 
+## Italy data schema
 
+### monkeypox_italy.csv
+| Column      | DataType | Description     |
+| :---        |    :----:   |          ---: |
+| data     | String | Bulletin reference day |
+| cases     | Integer | Number of new confirmed cases |
+| cumulative     | Integer | Total of confirmed cases since the first bulletin  |
+| travel-related cases abroad	     | Integer | Distribution of confirmed cases by travel history  |
+| median_age	| Integer | Distribution of confirmed cases by age  |
+| male	| Integer | Distribution of confirmed cases by male gender  |
+| female	| Integer | Distribution of confirmed cases by female gender  |
+
+
+### monkeypox_region.csv
+| Column      | DataType | Description     |
+| :---        |    :----:   |          ---: |
+| data     | String | Bulletin reference day |
+| region     | Integer | Place of notification |
+| cases     | Integer | Number of new confirmed cases |
+| cumulative     | Integer | Total of confirmed cases since the first bulletin  |
 
 
 
