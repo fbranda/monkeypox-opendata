@@ -1,55 +1,61 @@
-"data_bulletin","sexual_orientation","cases"
-"22/06/22","MSM",667
-"22/06/22","Bisexual",5
-"22/06/22","Heterosexual",4
-"22/06/22","Unknown or undetermined",388
-"22/06/22","Missing",697
-"22/06/22","Total",1761
-"29/06/22","MSM",1050
-"29/06/22","Bisexual",8
-"29/06/22","Heterosexual",7
-"29/06/22","Unknown or undetermined",722
-"29/06/22","Missing",1253
-"29/06/22","Total",3040
-"06/07/22","MSM",1386
-"06/07/22","Bisexual",14
-"06/07/22","Heterosexual",12
-"06/07/22","Unknown or undetermined",852
-"06/07/22","Missing",2945
-"06/07/22","Total",5209
-"13/07/22","MSM",1923
-"13/07/22","Bisexual",16
-"13/07/22","Heterosexual",15
-"13/07/22","Unknown or undetermined",937
-"13/07/22","Missing",3891
-"13/07/22","Total",6782
-"20/07/22","MSM",3124
-"20/07/22","Bisexual",33
-"20/07/22","Heterosexual",46
-"20/07/22","Unknown or undetermined",1508
-"20/07/22","Missing",4570
-"20/07/22","Total",9281
-"27/07/22","MSM",5501
-"27/07/22","Bisexual",55
-"27/07/22","Heterosexual",70
-"27/07/22","Unknown or undetermined",1764
-"27/07/22","Missing",5371
-"27/07/22","Total",12761
-"03/08/22","MSM",6777
-"03/08/22","Bisexual",75
-"03/08/22","Heterosexual",150
-"03/08/22","Unknown or undetermined",2021
-"03/08/22","Missing",6601
-"03/08/22","Total",15624
-"10/08/22","MSM",7470
-"10/08/22","Bisexual",58
-"10/08/22","Heterosexual",124
-"10/08/22","Unknown or undetermined",2088
-"10/08/22","Missing",7546
-"10/08/22","Total",17286
-"17/08/22","MSM",7957
-"17/08/22","Bisexual",79
-"17/08/22","Heterosexual",150
-"17/08/22","Unknown or undetermined",2141
-"17/08/22","Missing",5738
-"17/08/22","Total",16065
+data_bulletin;sexual_orientation;cases
+22/06/22;MSM;667
+22/06/22;Bisexual;5
+22/06/22;Heterosexual;4
+22/06/22;Unknown or undetermined;388
+22/06/22;Missing;697
+22/06/22;Total;1761
+29/06/22;MSM;1050
+29/06/22;Bisexual;8
+29/06/22;Heterosexual;7
+29/06/22;Unknown or undetermined;722
+29/06/22;Missing;1253
+29/06/22;Total;3040
+06/07/22;MSM;1386
+06/07/22;Bisexual;14
+06/07/22;Heterosexual;12
+06/07/22;Unknown or undetermined;852
+06/07/22;Missing;2945
+06/07/22;Total;5209
+13/07/22;MSM;1923
+13/07/22;Bisexual;16
+13/07/22;Heterosexual;15
+13/07/22;Unknown or undetermined;937
+13/07/22;Missing;3891
+13/07/22;Total;6782
+20/07/22;MSM;3124
+20/07/22;Bisexual;33
+20/07/22;Heterosexual;46
+20/07/22;Unknown or undetermined;1508
+20/07/22;Missing;4570
+20/07/22;Total;9281
+27/07/22;MSM;5501
+27/07/22;Bisexual;55
+27/07/22;Heterosexual;70
+27/07/22;Unknown or undetermined;1764
+27/07/22;Missing;5371
+27/07/22;Total;12761
+03/08/22;MSM;6777
+03/08/22;Bisexual;75
+03/08/22;Heterosexual;150
+03/08/22;Unknown or undetermined;2021
+03/08/22;Missing;6601
+03/08/22;Total;15624
+10/08/22;MSM;7470
+10/08/22;Bisexual;58
+10/08/22;Heterosexual;124
+10/08/22;Unknown or undetermined;2088
+10/08/22;Missing;7546
+10/08/22;Total;17286
+17/08/22;MSM;7957
+17/08/22;Bisexual;79
+17/08/22;Heterosexual;150
+17/08/22;Unknown or undetermined;2141
+17/08/22;Missing;5738
+17/08/22;Total;16065
+24/08/22;MSM;8771
+24/08/22;Bisexual;88
+24/08/22;Heterosexual;194
+24/08/22;Unknown or undetermined;2365
+24/08/22;Missing;6266
+24/08/22;Total;17684
