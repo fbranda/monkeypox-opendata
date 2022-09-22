@@ -1,39 +1,39 @@
 "country","IHR","TESSy"
-"Spain",6947,6947
-"France",3785,3784
-"United Kingdom",3552,3513
-"Germany",3547,3547
-"Netherlands",1195,1192
-"Portugal",898,794
-"Italy",813,813
-"Belgium",744,744
-"Switzerland",490,490
-"Austria",292,292
-"Israel",246,230
+"Spain",7083,7083
+"France",3898,3897
+"Germany",3570,3570
+"United Kingdom",3552,3531
+"Netherlands",1221,1221
+"Portugal",908,845
+"Italy",837,837
+"Belgium",757,757
+"Switzerland",502,502
+"Austria",304,304
+"Israel",250,230
+"Sweden",186,186
 "Denmark",183,183
-"Sweden",177,177
-"Ireland",173,173
-"Poland",160,160
-"Norway",85,85
-"Hungary",75,75
-"Greece",67,67
-"Czechia",62,62
+"Ireland",178,178
+"Poland",173,173
+"Norway",89,89
+"Hungary",77,77
+"Greece",69,69
+"Czechia",66,66
 "Luxembourg",55,55
 "Slovenia",46,46
-"Romania",37,37
+"Romania",39,39
 "Finland",33,33
 "Malta",33,33
 "Serbia",31,0
-"Croatia",27,27
-"Slovakia",14,12
+"Croatia",29,29
+"Slovakia",14,14
 "Iceland",12,12
-"Estonia",11,10
+"Estonia",11,11
 "Bulgaria",6,6
-"Gibraltar",6,0
+"Gibraltar",6,5
 "Cyprus",5,5
+"Latvia",5,4
 "Lithuania",5,5
 "Andorra",4,4
-"Latvia",4,3
 "Bosnia and Herzegovina",3,3
 "Monaco",3,0
 "Georgia",2,2
@@ -41,5 +41,6 @@
 "Montenegro",2,0
 "Republic of Moldova",2,2
 "Russian Federation",2,0
+"Ukraine",2,0
 "Turkey",1,0
-"Total",23837,23623
+"Total",24256,24106
