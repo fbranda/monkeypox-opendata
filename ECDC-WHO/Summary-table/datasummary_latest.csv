@@ -1,39 +1,41 @@
 "country","confirmed","probable","total"
 "Andorra",4,0,4
-"Austria",303,1,304
-"Belgium",757,0,757
-"Bosnia and Herzegovina",3,0,3
+"Austria",308,1,309
+"Belgium",770,0,770
+"Bosnia and Herzegovina",5,0,5
 "Bulgaria",6,0,6
 "Croatia",29,0,29
 "Cyprus",5,0,5
 "Czechia",66,0,66
-"Denmark",183,0,183
+"Denmark",185,0,185
 "Estonia",11,0,11
-"Finland",33,0,33
-"France",3897,0,3897
+"Finland",40,0,40
+"France",3969,0,3969
 "Georgia",2,0,2
-"Germany",3570,0,3570
+"Germany",3607,0,3607
 "Gibraltar",5,0,5
-"Greece",69,0,69
+"Greece",74,0,74
 "Hungary",77,0,77
-"Iceland",12,0,12
-"Ireland",178,0,178
+"Iceland",14,0,14
+"Ireland",183,0,183
 "Israel",230,0,230
-"Italy",837,0,837
-"Latvia",4,0,4
+"Italy",846,0,846
+"Latvia",5,0,5
 "Lithuania",5,0,5
 "Luxembourg",55,0,55
 "Malta",33,0,33
-"Netherlands",1221,0,1221
-"Norway",89,0,89
-"Poland",157,16,173
-"Portugal",845,0,845
+"Netherlands",1223,0,1223
+"Norway",91,0,91
+"Poland",168,20,188
+"Portugal",851,0,851
 "Republic of Moldova",2,0,2
-"Romania",39,0,39
+"Romania",40,0,40
+"Serbia",40,0,40
 "Slovakia",14,0,14
 "Slovenia",46,0,46
-"Spain",7083,0,7083
-"Sweden",186,0,186
-"Switzerland",502,0,502
-"United Kingdom",3386,145,3531
-"Total",23944,162,24106
+"Spain",7149,0,7149
+"Sweden",192,0,192
+"Switzerland",513,0,513
+"Ukraine",3,0,3
+"United Kingdom",3439,150,3589
+"Total",24305,171,24476
