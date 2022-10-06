@@ -253,9 +253,8 @@ library(httr)
 df <- read.csv(text=content(GET("https://raw.githubusercontent.com/fbranda/monkeypox-opendata/main/ECDC-WHO/Epicurves/epicurve_by_country.csv")))
 ```
 ## Contributions
-1)[Branda F, Pierini M, Mazzoli S. Monkeypox: EpiMPX surveillance system and open-data with a special focus on European
-and Italian epidemic. Journal of Clinical Virology Plus 2022;p. 100114.](https://www.sciencedirect.com/science/
-article/pii/S2667038022000539)
+1) [Branda F, Pierini M, Mazzoli S. Monkeypox: EpiMPX surveillance system and open-data with a special focus on European
+and Italian epidemic. Journal of Clinical Virology Plus 2022;p. 100114.](https://www.sciencedirect.com/science/article/pii/S2667038022000539)
 
 2) [Bayesian framework for Monkeypox R0 early estimation in Europe](https://github.com/maxdevblock/Monkeypox_R0_Europe)
 
