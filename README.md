@@ -201,17 +201,21 @@ monkeypox-opendata/
 | Column      | DataType | Description     |
 | :---        |    :----:   |          ---: |
 | country     | String | Place of notification |
-| confirmed     | Integer | Number of laboratory-confirmed Monkeypox infection |
-| probable     | Integer | Number of cases of persons with an unexplained rash on any part of their body AND one or more other symptom(s) of Monkeypox infection with symptom |
-| unknown     | Integer | Number of cases whose status is unknown  |
-| total     | Integer | confirmed+probable+unknown  |
+| confirmed_cases     | Integer | Number of laboratory-confirmed Monkeypox infection |
+| probable_cases     | Integer | Number of cases of persons with an unexplained rash on any part of their body AND one or more other symptom(s) of Monkeypox infection with symptom |
+| total_cases     | Integer | confirmed_cases+probable_cases |
+| total_deaths     | Integer | Confirmed deaths of Monkeypox |
 
 ### Summary-table: timeseries_datasummary.csv
 | Column      | DataType | Description     |
 | :---        |    :----:   |          ---: |
 | data_bulletin     | String | Bulletin reference week |
-| sexual_orientation     | String | Type of reported sexual orientations among cases of Monkeypox |
-| cases     | Integer | Distribution of confirmed cases by sexual orientation  |
+| country     | String | Place of notification |
+| confirmed_cases     | Integer | Number of laboratory-confirmed Monkeypox infection |
+| probable_cases     | Integer | Number of cases of persons with an unexplained rash on any part of their body AND one or more other symptom(s) of Monkeypox infection with symptom |
+| total_cases     | Integer | confirmed_cases+probable_cases |
+| total_deaths     | Integer | Confirmed deaths of Monkeypox |
+
 
 ## Italy data schema
 
