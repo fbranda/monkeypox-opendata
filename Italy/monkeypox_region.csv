@@ -1,701 +1,722 @@
 "data","region","cases","cumulative"
-"17/06/22","Basilicata",0,0
-"17/06/22","Calabria",0,0
-"17/06/22","Campania",1,1
-"17/06/22","Emilia-Romagna",1,8
-"17/06/22","Friuli-Venezia Giulia",0,2
-"17/06/22","Lazio",7,18
-"17/06/22","Liguria",0,0
-"17/06/22","Lombardia",11,33
-"17/06/22","Marche",0,0
-"17/06/22","Molise",0,0
-"17/06/22","Piemonte",1,2
-"17/06/22","Puglia",0,1
-"17/06/22","Sardegna",0,0
-"17/06/22","Sicilia",0,0
-"17/06/22","Toscana",0,1
-"17/06/22","PA Bolzano",0,0
-"17/06/22","PA Trento",0,1
-"17/06/22","Umbria",0,0
-"17/06/22","Valle d'Aosta",0,0
-"17/06/22","Veneto",0,4
-"21/06/22","Basilicata",0,0
-"21/06/22","Calabria",0,0
-"21/06/22","Campania",0,1
-"21/06/22","Emilia-Romagna",0,8
-"21/06/22","Friuli-Venezia Giulia",0,2
-"21/06/22","Lazio",7,25
-"21/06/22","Liguria",0,0
-"21/06/22","Lombardia",5,38
-"21/06/22","Marche",0,0
-"21/06/22","Molise",0,0
-"21/06/22","Piemonte",1,3
-"21/06/22","Puglia",0,1
-"21/06/22","Sardegna",0,0
-"21/06/22","Sicilia",0,0
-"21/06/22","Toscana",1,2
-"21/06/22","PA Bolzano",0,0
-"21/06/22","PA Trento",0,1
-"21/06/22","Umbria",0,0
-"21/06/22","Valle d'Aosta",0,0
-"21/06/22","Veneto",0,4
-"24/06/22","Basilicata",0,0
-"24/06/22","Calabria",0,0
-"24/06/22","Campania",0,1
-"24/06/22","Emilia-Romagna",4,12
-"24/06/22","Friuli-Venezia Giulia",1,3
-"24/06/22","Lazio",7,32
-"24/06/22","Liguria",0,0
-"24/06/22","Lombardia",26,64
-"24/06/22","Marche",0,0
-"24/06/22","Molise",0,0
-"24/06/22","Piemonte",2,5
-"24/06/22","Puglia",2,3
-"24/06/22","Sardegna",0,0
-"24/06/22","Sicilia",0,0
-"24/06/22","Toscana",0,2
-"24/06/22","PA Bolzano",0,0
-"24/06/22","PA Trento",0,1
-"24/06/22","Umbria",0,0
-"24/06/22","Valle d'Aosta",0,0
-"24/06/22","Veneto",0,4
-"28/06/22","Basilicata",0,0
-"28/06/22","Calabria",0,0
-"28/06/22","Campania",0,1
-"28/06/22","Emilia-Romagna",2,14
-"28/06/22","Friuli-Venezia Giulia",0,3
-"28/06/22","Lazio",7,39
-"28/06/22","Liguria",0,0
-"28/06/22","Lombardia",19,83
-"28/06/22","Marche",0,0
-"28/06/22","Molise",0,0
-"28/06/22","Piemonte",0,5
-"28/06/22","Puglia",2,5
-"28/06/22","Sardegna",0,0
-"28/06/22","Sicilia",0,0
-"28/06/22","Toscana",0,2
-"28/06/22","PA Bolzano",1,1
-"28/06/22","PA Trento",0,1
-"28/06/22","Umbria",0,0
-"28/06/22","Valle d'Aosta",0,0
-"28/06/22","Veneto",1,5
-"01/07/22","Basilicata",0,0
-"01/07/22","Calabria",0,0
-"01/07/22","Campania",0,1
-"01/07/22","Emilia-Romagna",3,17
-"01/07/22","Friuli-Venezia Giulia",0,3
-"01/07/22","Lazio",1,40
-"01/07/22","Liguria",0,0
-"01/07/22","Lombardia",26,109
-"01/07/22","Marche",0,0
-"01/07/22","Molise",0,0
-"01/07/22","Piemonte",0,5
-"01/07/22","Puglia",1,6
-"01/07/22","Sardegna",0,0
-"01/07/22","Sicilia",0,0
-"01/07/22","Toscana",0,2
-"01/07/22","PA Bolzano",0,1
-"01/07/22","PA Trento",0,1
-"01/07/22","Umbria",0,0
-"01/07/22","Valle d'Aosta",0,0
-"01/07/22","Veneto",2,7
-"05/07/22","Basilicata",0,0
-"05/07/22","Calabria",0,0
-"05/07/22","Campania",0,1
-"05/07/22","Emilia-Romagna",9,26
-"05/07/22","Friuli-Venezia Giulia",1,4
-"05/07/22","Lazio",7,47
-"05/07/22","Liguria",1,1
-"05/07/22","Lombardia",17,126
-"05/07/22","Marche",0,0
-"05/07/22","Molise",0,0
-"05/07/22","Piemonte",0,5
-"05/07/22","Puglia",0,6
-"05/07/22","Sardegna",0,0
-"05/07/22","Sicilia",0,0
-"05/07/22","Toscana",1,3
-"05/07/22","PA Bolzano",0,1
-"05/07/22","PA Trento",0,1
-"05/07/22","Umbria",0,0
-"05/07/22","Valle d'Aosta",0,0
-"05/07/22","Veneto",5,12
-"08/07/22","Basilicata",0,0
-"08/07/22","Calabria",0,0
-"08/07/22","Campania",0,1
-"08/07/22","Emilia-Romagna",5,31
-"08/07/22","Friuli-Venezia Giulia",0,4
-"08/07/22","Lazio",5,52
-"08/07/22","Liguria",0,1
-"08/07/22","Lombardia",9,135
-"08/07/22","Marche",1,1
-"08/07/22","Molise",0,0
-"08/07/22","Piemonte",1,6
-"08/07/22","Puglia",0,6
-"08/07/22","Sardegna",0,0
-"08/07/22","Sicilia",0,0
-"08/07/22","Toscana",0,3
-"08/07/22","PA Bolzano",0,1
-"08/07/22","PA Trento",0,1
-"08/07/22","Umbria",0,0
-"08/07/22","Valle d'Aosta",0,0
-"08/07/22","Veneto",1,13
-"12/07/22","Basilicata",0,0
-"12/07/22","Calabria",0,0
-"12/07/22","Campania",0,1
-"12/07/22","Emilia-Romagna",3,34
-"12/07/22","Friuli-Venezia Giulia",0,4
-"12/07/22","Lazio",14,66
-"12/07/22","Liguria",1,2
-"12/07/22","Lombardia",12,147
-"12/07/22","Marche",0,1
-"12/07/22","Molise",0,0
-"12/07/22","Piemonte",0,6
-"12/07/22","Puglia",1,7
-"12/07/22","Sardegna",0,0
-"12/07/22","Sicilia",0,0
-"12/07/22","Toscana",1,4
-"12/07/22","PA Bolzano",0,1
-"12/07/22","PA Trento",0,1
-"12/07/22","Umbria",0,0
-"12/07/22","Valle d'Aosta",0,0
-"12/07/22","Veneto",5,18
-"15/07/22","Basilicata",0,0
-"15/07/22","Calabria",0,0
-"15/07/22","Campania",2,3
-"15/07/22","Emilia-Romagna",8,42
-"15/07/22","Friuli-Venezia Giulia",2,6
-"15/07/22","Lazio",5,71
-"15/07/22","Liguria",3,5
-"15/07/22","Lombardia",17,164
-"15/07/22","Marche",1,2
-"15/07/22","Molise",0,0
-"15/07/22","Piemonte",0,6
-"15/07/22","Puglia",0,7
-"15/07/22","Sardegna",0,0
-"15/07/22","Sicilia",2,2
-"15/07/22","Toscana",3,7
-"15/07/22","PA Bolzano",0,1
-"15/07/22","PA Trento",0,1
-"15/07/22","Umbria",0,0
-"15/07/22","Valle d'Aosta",0,0
-"15/07/22","Veneto",4,22
-"19/07/22","Basilicata",0,0
-"19/07/22","Calabria",0,0
-"19/07/22","Campania",0,3
-"19/07/22","Emilia-Romagna",2,44
-"19/07/22","Friuli-Venezia Giulia",1,7
-"19/07/22","Lazio",9,80
-"19/07/22","Liguria",3,8
-"19/07/22","Lombardia",11,175
-"19/07/22","Marche",0,2
-"19/07/22","Molise",0,0
-"19/07/22","Piemonte",1,7
-"19/07/22","Puglia",0,7
-"19/07/22","Sardegna",0,0
-"19/07/22","Sicilia",0,2
-"19/07/22","Toscana",2,9
-"19/07/22","PA Bolzano",0,1
-"19/07/22","PA Trento",1,2
-"19/07/22","Umbria",0,0
-"19/07/22","Valle d'Aosta",0,0
-"19/07/22","Veneto",5,27
-"22/07/22","Basilicata",0,0
-"22/07/22","Calabria",0,0
-"22/07/22","Campania",0,3
-"22/07/22","Emilia-Romagna",3,47
-"22/07/22","Friuli-Venezia Giulia",1,8
-"22/07/22","Lazio",8,88
-"22/07/22","Liguria",0,8
-"22/07/22","Lombardia",16,191
-"22/07/22","Marche",0,2
-"22/07/22","Molise",0,0
-"22/07/22","Piemonte",0,7
-"22/07/22","Puglia",1,8
-"22/07/22","Sardegna",0,0
-"22/07/22","Sicilia",0,2
-"22/07/22","Toscana",0,9
-"22/07/22","PA Bolzano",0,1
-"22/07/22","PA Trento",0,2
-"22/07/22","Umbria",0,0
-"22/07/22","Valle d'Aosta",0,0
-"22/07/22","Veneto",4,31
-"26/07/22","Basilicata",0,0
-"26/07/22","Calabria",0,0
-"26/07/22","Campania",1,4
-"26/07/22","Emilia-Romagna",2,49
-"26/07/22","Friuli-Venezia Giulia",1,9
-"26/07/22","Lazio",2,90
-"26/07/22","Liguria",0,8
-"26/07/22","Lombardia",6,197
-"26/07/22","Marche",0,2
-"26/07/22","Molise",0,0
-"26/07/22","Piemonte",3,10
-"26/07/22","Puglia",0,8
-"26/07/22","Sardegna",0,0
-"26/07/22","Sicilia",0,2
-"26/07/22","Toscana",3,12
-"26/07/22","PA Bolzano",0,1
-"26/07/22","PA Trento",1,3
-"26/07/22","Umbria",0,0
-"26/07/22","Valle d'Aosta",0,0
-"26/07/22","Veneto",0,31
-"29/07/22","Basilicata",0,0
-"29/07/22","Calabria",0,0
-"29/07/22","Campania",2,6
-"29/07/22","Emilia-Romagna",6,55
-"29/07/22","Friuli-Venezia Giulia",0,9
-"29/07/22","Lazio",11,101
-"29/07/22","Liguria",0,8
-"29/07/22","Lombardia",19,216
-"29/07/22","Marche",0,2
-"29/07/22","Molise",0,0
-"29/07/22","Piemonte",8,18
-"29/07/22","Puglia",0,8
-"29/07/22","Sardegna",0,0
-"29/07/22","Sicilia",0,2
-"29/07/22","Toscana",4,16
-"29/07/22","PA Bolzano",0,1
-"29/07/22","PA Trento",0,3
-"29/07/22","Umbria",0,0
-"29/07/22","Valle d'Aosta",0,0
-"29/07/22","Veneto",2,33
-"02/08/22","Basilicata",0,0
-"02/08/22","Calabria",0,0
-"02/08/22","Campania",1,7
-"02/08/22","Emilia-Romagna",2,57
-"02/08/22","Friuli-Venezia Giulia",0,9
-"02/08/22","Lazio",3,104
-"02/08/22","Liguria",1,9
-"02/08/22","Lombardia",16,232
-"02/08/22","Marche",0,2
-"02/08/22","Molise",0,0
-"02/08/22","Piemonte",0,18
-"02/08/22","Puglia",1,9
-"02/08/22","Sardegna",1,1
-"02/08/22","Sicilia",0,2
-"02/08/22","Toscana",1,17
-"02/08/22","PA Bolzano",0,1
-"02/08/22","PA Trento",0,3
-"02/08/22","Umbria",0,0
-"02/08/22","Valle d'Aosta",0,0
-"02/08/22","Veneto",0,33
-"05/08/22","Abruzzo",1,1
-"05/08/22","Basilicata",0,0
-"05/08/22","Calabria",0,0
-"05/08/22","Campania",0,7
-"05/08/22","Emilia-Romagna",5,62
-"05/08/22","Friuli-Venezia Giulia",1,10
-"05/08/22","Lazio",5,109
-"05/08/22","Liguria",0,9
-"05/08/22","Lombardia",18,250
-"05/08/22","Marche",0,2
-"05/08/22","Molise",0,0
-"05/08/22","Piemonte",3,21
-"05/08/22","Puglia",0,9
-"05/08/22","Sardegna",0,1
-"05/08/22","Sicilia",0,2
-"05/08/22","Toscana",4,21
-"05/08/22","PA Bolzano",0,1
-"05/08/22","PA Trento",0,3
-"05/08/22","Umbria",0,0
-"05/08/22","Valle d'Aosta",0,0
-"05/08/22","Veneto",4,37
-"09/08/22","Abruzzo",1,2
-"09/08/22","Basilicata",0,0
-"09/08/22","Calabria",0,0
-"09/08/22","Campania",11,18
-"09/08/22","Emilia-Romagna",3,65
-"09/08/22","Friuli-Venezia Giulia",1,11
-"09/08/22","Lazio",5,114
-"09/08/22","Liguria",3,12
-"09/08/22","Lombardia",15,265
-"09/08/22","Marche",2,4
-"09/08/22","Molise",0,0
-"09/08/22","Piemonte",1,22
-"09/08/22","Puglia",3,12
-"09/08/22","Sardegna",0,1
-"09/08/22","Sicilia",0,2
-"09/08/22","Toscana",4,25
-"09/08/22","PA Bolzano",0,1
-"09/08/22","PA Trento",0,3
-"09/08/22","Umbria",0,0
-"09/08/22","Valle d'Aosta",0,0
-"09/08/22","Veneto",5,42
-"12/08/22","Abruzzo",0,2
-"12/08/22","Basilicata",0,0
-"12/08/22","Calabria",0,0
-"12/08/22","Campania",3,21
-"12/08/22","Emilia-Romagna",4,69
-"12/08/22","Friuli-Venezia Giulia",0,11
-"12/08/22","Lazio",4,118
-"12/08/22","Liguria",1,13
-"12/08/22","Lombardia",18,283
-"12/08/22","Marche",0,4
-"12/08/22","Molise",0,0
-"12/08/22","Piemonte",3,25
-"12/08/22","Puglia",1,13
-"12/08/22","Sardegna",2,3
-"12/08/22","Sicilia",2,4
-"12/08/22","Toscana",5,30
-"12/08/22","PA Bolzano",0,1
-"12/08/22","PA Trento",0,3
-"12/08/22","Umbria",0,0
-"12/08/22","Valle d'Aosta",0,0
-"12/08/22","Veneto",2,44
-"16/08/22","Abruzzo",0,2
-"16/08/22","Basilicata",0,0
-"16/08/22","Calabria",0,0
-"16/08/22","Campania",0,21
-"16/08/22","Emilia-Romagna",1,70
-"16/08/22","Friuli-Venezia Giulia",0,11
-"16/08/22","Lazio",3,121
-"16/08/22","Liguria",0,13
-"16/08/22","Lombardia",8,291
-"16/08/22","Marche",0,4
-"16/08/22","Molise",0,0
-"16/08/22","Piemonte",0,25
-"16/08/22","Puglia",1,14
-"16/08/22","Sardegna",1,4
-"16/08/22","Sicilia",1,5
-"16/08/22","Toscana",1,31
-"16/08/22","PA Bolzano",0,1
-"16/08/22","PA Trento",0,3
-"16/08/22","Umbria",0,0
-"16/08/22","Valle d'Aosta",0,0
-"16/08/22","Veneto",2,46
-"19/08/22","Abruzzo",0,2
-"19/08/22","Basilicata",0,0
-"19/08/22","Calabria",0,0
-"19/08/22","Campania",8,29
-"19/08/22","Emilia-Romagna",2,72
-"19/08/22","Friuli-Venezia Giulia",0,11
-"19/08/22","Lazio",4,125
-"19/08/22","Liguria",2,15
-"19/08/22","Lombardia",6,297
-"19/08/22","Marche",0,4
-"19/08/22","Molise",0,0
-"19/08/22","Piemonte",1,26
-"19/08/22","Puglia",0,14
-"19/08/22","Sardegna",0,4
-"19/08/22","Sicilia",0,5
-"19/08/22","Toscana",2,33
-"19/08/22","PA Bolzano",0,1
-"19/08/22","PA Trento",0,3
-"19/08/22","Umbria",0,0
-"19/08/22","Valle d'Aosta",0,0
-"19/08/22","Veneto",2,48
-"23/08/22","Abruzzo",0,2
-"23/08/22","Basilicata",0,0
-"23/08/22","Calabria",0,0
-"23/08/22","Campania",2,31
-"23/08/22","Emilia-Romagna",1,73
-"23/08/22","Friuli-Venezia Giulia",0,11
-"23/08/22","Lazio",3,128
-"23/08/22","Liguria",1,16
-"23/08/22","Lombardia",11,308
-"23/08/22","Marche",1,5
-"23/08/22","Molise",0,0
-"23/08/22","Piemonte",0,26
-"23/08/22","Puglia",2,16
-"23/08/22","Sardegna",0,4
-"23/08/22","Sicilia",0,5
-"23/08/22","Toscana",3,36
-"23/08/22","PA Bolzano",0,1
-"23/08/22","PA Trento",1,4
-"23/08/22","Umbria",0,0
-"23/08/22","Valle d'Aosta",0,0
-"23/08/22","Veneto",0,48
-"26/08/22","Abruzzo",2,0
-"26/08/22","Basilicata",0,0
-"26/08/22","Calabria",0,0
-"26/08/22","Campania",32,1
-"26/08/22","Emilia-Romagna",75,2
-"26/08/22","Friuli-Venezia Giulia",11,0
-"26/08/22","Lazio",136,8
-"26/08/22","Liguria",16,0
-"26/08/22","Lombardia",318,10
-"26/08/22","Marche",5,0
-"26/08/22","Molise",0,0
-"26/08/22","Piemonte",26,0
-"26/08/22","Puglia",17,1
-"26/08/22","Sardegna",4,0
-"26/08/22","Sicilia",6,1
-"26/08/22","Toscana",38,2
-"26/08/22","PA Bolzano",1,0
-"26/08/22","PA Trento",4,0
-"26/08/22","Umbria",0,0
-"26/08/22","Valle d'Aosta",0,0
-"26/08/22","Veneto",49,1
-"30/08/22","Abruzzo",2,0
-"30/08/22","Basilicata",0,0
-"30/08/22","Calabria",0,0
-"30/08/22","Campania",37,5
-"30/08/22","Emilia-Romagna",75,0
-"30/08/22","Friuli-Venezia Giulia",12,1
-"30/08/22","Lazio",138,2
-"30/08/22","Liguria",16,0
-"30/08/22","Lombardia",322,4
-"30/08/22","Marche",6,1
-"30/08/22","Molise",0,0
-"30/08/22","Piemonte",27,1
-"30/08/22","Puglia",17,0
-"30/08/22","Sardegna",5,1
-"30/08/22","Sicilia",7,1
-"30/08/22","Toscana",38,0
-"30/08/22","PA Bolzano",1,0
-"30/08/22","PA Trento",4,0
-"30/08/22","Umbria",0,0
-"30/08/22","Valle d'Aosta",0,0
-"30/08/22","Veneto",53,4
-"02/09/22","Abruzzo",1,3
-"02/09/22","Basilicata",0,0
-"02/09/22","Calabria",0,0
-"02/09/22","Campania",1,38
-"02/09/22","Emilia-Romagna",2,77
-"02/09/22","Friuli-Venezia Giulia",1,13
-"02/09/22","Lazio",1,139
-"02/09/22","Liguria",0,16
-"02/09/22","Lombardia",4,326
-"02/09/22","Marche",0,6
-"02/09/22","Molise",0,0
-"02/09/22","Piemonte",0,27
-"02/09/22","Puglia",0,17
-"02/09/22","Sardegna",0,5
-"02/09/22","Sicilia",0,7
-"02/09/22","Toscana",1,39
-"02/09/22","PA Bolzano",0,1
-"02/09/22","PA Trento",0,4
-"02/09/22","Umbria",0,0
-"02/09/22","Valle d'Aosta",0,0
-"02/09/22","Veneto",2,55
-"06/09/22","Abruzzo",0,3
-"06/09/22","Basilicata",0,0
-"06/09/22","Calabria",0,0
-"06/09/22","Campania",0,38
-"06/09/22","Emilia-Romagna",2,79
-"06/09/22","Friuli-Venezia Giulia",1,14
-"06/09/22","Lazio",1,140
-"06/09/22","Liguria",2,18
-"06/09/22","Lombardia",4,330
-"06/09/22","Marche",1,7
-"06/09/22","Molise",0,0
-"06/09/22","Piemonte",0,27
-"06/09/22","Puglia",1,18
-"06/09/22","Sardegna",0,5
-"06/09/22","Sicilia",1,8
-"06/09/22","Toscana",1,40
-"06/09/22","PA Bolzano",0,1
-"06/09/22","PA Trento",0,4
-"06/09/22","Umbria",0,0
-"06/09/22","Valle d'Aosta",0,0
-"06/09/22","Veneto",0,55
-"09/09/22","Abruzzo",0,3
-"09/09/22","Basilicata",0,0
-"09/09/22","Calabria",0,0
-"09/09/22","Campania",2,40
-"09/09/22","Emilia-Romagna",1,80
-"09/09/22","Friuli-Venezia Giulia",0,14
-"09/09/22","Lazio",1,141
-"09/09/22","Liguria",0,18
-"09/09/22","Lombardia",3,333
-"09/09/22","Marche",0,7
-"09/09/22","Molise",0,0
-"09/09/22","Piemonte",4,31
-"09/09/22","Puglia",1,19
-"09/09/22","Sardegna",0,5
-"09/09/22","Sicilia",1,9
-"09/09/22","Toscana",3,43
-"09/09/22","PA Bolzano",0,1
-"09/09/22","PA Trento",0,4
-"09/09/22","Umbria",0,0
-"09/09/22","Valle d'Aosta",0,0
-"09/09/22","Veneto",2,57
-"13/09/22","Abruzzo",1,4
-"13/09/22","Basilicata",0,0
-"13/09/22","Calabria",0,0
-"13/09/22","Campania",0,40
-"13/09/22","Emilia-Romagna",0,80
-"13/09/22","Friuli-Venezia Giulia",0,14
-"13/09/22","Lazio",0,141
-"13/09/22","Liguria",0,18
-"13/09/22","Lombardia",4,337
-"13/09/22","Marche",0,7
-"13/09/22","Molise",0,0
-"13/09/22","Piemonte",0,31
-"13/09/22","Puglia",1,20
-"13/09/22","Sardegna",0,5
-"13/09/22","Sicilia",0,9
-"13/09/22","Toscana",1,44
-"13/09/22","PA Bolzano",0,1
-"13/09/22","PA Trento",0,4
-"13/09/22","Umbria",0,0
-"13/09/22","Valle d'Aosta",0,0
-"13/09/22","Veneto",1,58
-"16/09/22","Abruzzo",0,4
-"16/09/22","Basilicata",0,0
-"16/09/22","Calabria",0,0
-"16/09/22","Campania",0,40
-"16/09/22","Emilia-Romagna",3,83
-"16/09/22","Friuli-Venezia Giulia",0,14
-"16/09/22","Lazio",2,143
-"16/09/22","Liguria",0,18
-"16/09/22","Lombardia",7,344
-"16/09/22","Marche",0,7
-"16/09/22","Molise",0,0
-"16/09/22","Piemonte",0,31
-"16/09/22","Puglia",1,21
-"16/09/22","Sardegna",1,6
-"16/09/22","Sicilia",1,10
-"16/09/22","Toscana",0,44
-"16/09/22","PA Bolzano",0,1
-"16/09/22","PA Trento",0,4
-"16/09/22","Umbria",0,0
-"16/09/22","Valle d'Aosta",0,0
-"16/09/22","Veneto",0,58
-"20/09/22","Abruzzo",0,4
-"20/09/22","Basilicata",0,0
-"20/09/22","Calabria",0,0
-"20/09/22","Campania",0,40
-"20/09/22","Emilia-Romagna",1,84
-"20/09/22","Friuli-Venezia Giulia",0,14
-"20/09/22","Lazio",2,145
-"20/09/22","Liguria",0,18
-"20/09/22","Lombardia",3,347
-"20/09/22","Marche",0,7
-"20/09/22","Molise",0,0
-"20/09/22","Piemonte",0,31
-"20/09/22","Puglia",0,21
-"20/09/22","Sardegna",0,6
-"20/09/22","Sicilia",1,11
-"20/09/22","Toscana",1,45
-"20/09/22","PA Bolzano",0,1
-"20/09/22","PA Trento",0,4
-"20/09/22","Umbria",0,0
-"20/09/22","Valle d'Aosta",0,0
-"20/09/22","Veneto",1,59
-"23/09/22","Abruzzo",0,4
-"23/09/22","Basilicata",0,0
-"23/09/22","Calabria",0,0
-"23/09/22","Campania",0,40
-"23/09/22","Emilia-Romagna",0,84
-"23/09/22","Friuli-Venezia Giulia",0,14
-"23/09/22","Lazio",0,145
-"23/09/22","Liguria",0,18
-"23/09/22","Lombardia",1,348
-"23/09/22","Marche",0,7
-"23/09/22","Molise",0,0
-"23/09/22","Piemonte",1,32
-"23/09/22","Puglia",0,21
-"23/09/22","Sardegna",0,6
-"23/09/22","Sicilia",0,11
-"23/09/22","Toscana",0,45
-"23/09/22","PA Bolzano",0,1
-"23/09/22","PA Trento",0,4
-"23/09/22","Umbria",0,0
-"23/09/22","Valle d'Aosta",0,0
-"23/09/22","Veneto",3,62
-"27/09/22","Abruzzo",0,4
-"27/09/22","Basilicata",0,0
-"27/09/22","Calabria",0,0
-"27/09/22","Campania",0,40
-"27/09/22","Emilia-Romagna",1,85
-"27/09/22","Friuli-Venezia Giulia",0,14
-"27/09/22","Lazio",1,146
-"27/09/22","Liguria",0,18
-"27/09/22","Lombardia",0,348
-"27/09/22","Marche",0,7
-"27/09/22","Molise",0,0
-"27/09/22","Piemonte",0,32
-"27/09/22","Puglia",0,21
-"27/09/22","Sardegna",0,6
-"27/09/22","Sicilia",1,12
-"27/09/22","Toscana",0,45
-"27/09/22","PA Bolzano",0,1
-"27/09/22","PA Trento",0,4
-"27/09/22","Umbria",0,0
-"27/09/22","Valle d'Aosta",0,0
-"27/09/22","Veneto",1,63
-"30/09/22","Abruzzo",0,4
-"30/09/22","Basilicata",0,0
-"30/09/22","Calabria",0,0
-"30/09/22","Campania",0,40
-"30/09/22","Emilia-Romagna",0,85
-"30/09/22","Friuli-Venezia Giulia",0,14
-"30/09/22","Lazio",4,150
-"30/09/22","Liguria",0,18
-"30/09/22","Lombardia",0,348
-"30/09/22","Marche",0,7
-"30/09/22","Molise",0,0
-"30/09/22","Piemonte",0,32
-"30/09/22","Puglia",0,21
-"30/09/22","Sardegna",0,6
-"30/09/22","Sicilia",0,12
-"30/09/22","Toscana",0,45
-"30/09/22","PA Bolzano",0,1
-"30/09/22","PA Trento",0,4
-"30/09/22","Umbria",0,0
-"30/09/22","Valle d'Aosta",0,0
-"30/09/22","Veneto",0,63
-"04/10/22","Abruzzo",0,4
-"04/10/22","Basilicata",0,0
-"04/10/22","Calabria",0,0
-"04/10/22","Campania",0,40
-"04/10/22","Emilia-Romagna",0,85
-"04/10/22","Friuli-Venezia Giulia",0,14
-"04/10/22","Lazio",0,150
-"04/10/22","Liguria",0,18
-"04/10/22","Lombardia",0,348
-"04/10/22","Marche",0,7
-"04/10/22","Molise",0,0
-"04/10/22","Piemonte",0,32
-"04/10/22","Puglia",0,21
-"04/10/22","Sardegna",0,6
-"04/10/22","Sicilia",1,13
-"04/10/22","Toscana",0,45
-"04/10/22","PA Bolzano",0,1
-"04/10/22","PA Trento",0,4
-"04/10/22","Umbria",0,0
-"04/10/22","Valle d'Aosta",0,0
-"04/10/22","Veneto",0,63
-"07/10/22","Abruzzo",0,4
-"07/10/22","Basilicata",0,0
-"07/10/22","Calabria",0,0
-"07/10/22","Campania",0,40
-"07/10/22","Emilia-Romagna",0,85
-"07/10/22","Friuli-Venezia Giulia",0,14
-"07/10/22","Lazio",1,151
-"07/10/22","Liguria",0,18
-"07/10/22","Lombardia",2,350
-"07/10/22","Marche",0,7
-"07/10/22","Molise",0,0
-"07/10/22","Piemonte",0,32
-"07/10/22","Puglia",0,21
-"07/10/22","Sardegna",0,6
-"07/10/22","Sicilia",1,13
-"07/10/22","Toscana",0,45
-"07/10/22","PA Bolzano",0,1
-"07/10/22","PA Trento",0,4
-"07/10/22","Umbria",0,0
-"07/10/22","Valle d'Aosta",0,0
-"07/10/22","Veneto",0,63
-"11/10/22","Abruzzo",0,4
-"11/10/22","Basilicata",0,0
-"11/10/22","Calabria",0,0
-"11/10/22","Campania",0,40
-"11/10/22","Emilia-Romagna",0,85
-"11/10/22","Friuli-Venezia Giulia",0,14
-"11/10/22","Lazio",0,151
-"11/10/22","Liguria",0,18
-"11/10/22","Lombardia",0,350
-"11/10/22","Marche",0,7
-"11/10/22","Molise",0,0
-"11/10/22","Piemonte",0,32
-"11/10/22","Puglia",0,21
-"11/10/22","Sardegna",0,6
-"11/10/22","Sicilia",2,15
-"11/10/22","Toscana",0,45
-"11/10/22","PA Bolzano",0,1
-"11/10/22","PA Trento",0,4
-"11/10/22","Umbria",0,0
-"11/10/22","Valle d'Aosta",0,0
-"11/10/22","Veneto",0,63
+2022-06-17,"Basilicata",0,0
+2022-06-17,"Calabria",0,0
+2022-06-17,"Campania",1,1
+2022-06-17,"Emilia-Romagna",1,8
+2022-06-17,"Friuli-Venezia Giulia",0,2
+2022-06-17,"Lazio",7,18
+2022-06-17,"Liguria",0,0
+2022-06-17,"Lombardia",11,33
+2022-06-17,"Marche",0,0
+2022-06-17,"Molise",0,0
+2022-06-17,"Piemonte",1,2
+2022-06-17,"Puglia",0,1
+2022-06-17,"Sardegna",0,0
+2022-06-17,"Sicilia",0,0
+2022-06-17,"Toscana",0,1
+2022-06-17,"PA Bolzano",0,0
+2022-06-17,"PA Trento",0,1
+2022-06-17,"Umbria",0,0
+2022-06-17,"Valle d'Aosta",0,0
+2022-06-17,"Veneto",0,4
+2022-06-21,"Basilicata",0,0
+2022-06-21,"Calabria",0,0
+2022-06-21,"Campania",0,1
+2022-06-21,"Emilia-Romagna",0,8
+2022-06-21,"Friuli-Venezia Giulia",0,2
+2022-06-21,"Lazio",7,25
+2022-06-21,"Liguria",0,0
+2022-06-21,"Lombardia",5,38
+2022-06-21,"Marche",0,0
+2022-06-21,"Molise",0,0
+2022-06-21,"Piemonte",1,3
+2022-06-21,"Puglia",0,1
+2022-06-21,"Sardegna",0,0
+2022-06-21,"Sicilia",0,0
+2022-06-21,"Toscana",1,2
+2022-06-21,"PA Bolzano",0,0
+2022-06-21,"PA Trento",0,1
+2022-06-21,"Umbria",0,0
+2022-06-21,"Valle d'Aosta",0,0
+2022-06-21,"Veneto",0,4
+2022-06-24,"Basilicata",0,0
+2022-06-24,"Calabria",0,0
+2022-06-24,"Campania",0,1
+2022-06-24,"Emilia-Romagna",4,12
+2022-06-24,"Friuli-Venezia Giulia",1,3
+2022-06-24,"Lazio",7,32
+2022-06-24,"Liguria",0,0
+2022-06-24,"Lombardia",26,64
+2022-06-24,"Marche",0,0
+2022-06-24,"Molise",0,0
+2022-06-24,"Piemonte",2,5
+2022-06-24,"Puglia",2,3
+2022-06-24,"Sardegna",0,0
+2022-06-24,"Sicilia",0,0
+2022-06-24,"Toscana",0,2
+2022-06-24,"PA Bolzano",0,0
+2022-06-24,"PA Trento",0,1
+2022-06-24,"Umbria",0,0
+2022-06-24,"Valle d'Aosta",0,0
+2022-06-24,"Veneto",0,4
+2022-06-28,"Basilicata",0,0
+2022-06-28,"Calabria",0,0
+2022-06-28,"Campania",0,1
+2022-06-28,"Emilia-Romagna",2,14
+2022-06-28,"Friuli-Venezia Giulia",0,3
+2022-06-28,"Lazio",7,39
+2022-06-28,"Liguria",0,0
+2022-06-28,"Lombardia",19,83
+2022-06-28,"Marche",0,0
+2022-06-28,"Molise",0,0
+2022-06-28,"Piemonte",0,5
+2022-06-28,"Puglia",2,5
+2022-06-28,"Sardegna",0,0
+2022-06-28,"Sicilia",0,0
+2022-06-28,"Toscana",0,2
+2022-06-28,"PA Bolzano",1,1
+2022-06-28,"PA Trento",0,1
+2022-06-28,"Umbria",0,0
+2022-06-28,"Valle d'Aosta",0,0
+2022-06-28,"Veneto",1,5
+2022-07-01,"Basilicata",0,0
+2022-07-01,"Calabria",0,0
+2022-07-01,"Campania",0,1
+2022-07-01,"Emilia-Romagna",3,17
+2022-07-01,"Friuli-Venezia Giulia",0,3
+2022-07-01,"Lazio",1,40
+2022-07-01,"Liguria",0,0
+2022-07-01,"Lombardia",26,109
+2022-07-01,"Marche",0,0
+2022-07-01,"Molise",0,0
+2022-07-01,"Piemonte",0,5
+2022-07-01,"Puglia",1,6
+2022-07-01,"Sardegna",0,0
+2022-07-01,"Sicilia",0,0
+2022-07-01,"Toscana",0,2
+2022-07-01,"PA Bolzano",0,1
+2022-07-01,"PA Trento",0,1
+2022-07-01,"Umbria",0,0
+2022-07-01,"Valle d'Aosta",0,0
+2022-07-01,"Veneto",2,7
+2022-07-05,"Basilicata",0,0
+2022-07-05,"Calabria",0,0
+2022-07-05,"Campania",0,1
+2022-07-05,"Emilia-Romagna",9,26
+2022-07-05,"Friuli-Venezia Giulia",1,4
+2022-07-05,"Lazio",7,47
+2022-07-05,"Liguria",1,1
+2022-07-05,"Lombardia",17,126
+2022-07-05,"Marche",0,0
+2022-07-05,"Molise",0,0
+2022-07-05,"Piemonte",0,5
+2022-07-05,"Puglia",0,6
+2022-07-05,"Sardegna",0,0
+2022-07-05,"Sicilia",0,0
+2022-07-05,"Toscana",1,3
+2022-07-05,"PA Bolzano",0,1
+2022-07-05,"PA Trento",0,1
+2022-07-05,"Umbria",0,0
+2022-07-05,"Valle d'Aosta",0,0
+2022-07-05,"Veneto",5,12
+2022-07-08,"Basilicata",0,0
+2022-07-08,"Calabria",0,0
+2022-07-08,"Campania",0,1
+2022-07-08,"Emilia-Romagna",5,31
+2022-07-08,"Friuli-Venezia Giulia",0,4
+2022-07-08,"Lazio",5,52
+2022-07-08,"Liguria",0,1
+2022-07-08,"Lombardia",9,135
+2022-07-08,"Marche",1,1
+2022-07-08,"Molise",0,0
+2022-07-08,"Piemonte",1,6
+2022-07-08,"Puglia",0,6
+2022-07-08,"Sardegna",0,0
+2022-07-08,"Sicilia",0,0
+2022-07-08,"Toscana",0,3
+2022-07-08,"PA Bolzano",0,1
+2022-07-08,"PA Trento",0,1
+2022-07-08,"Umbria",0,0
+2022-07-08,"Valle d'Aosta",0,0
+2022-07-08,"Veneto",1,13
+2022-07-12,"Basilicata",0,0
+2022-07-12,"Calabria",0,0
+2022-07-12,"Campania",0,1
+2022-07-12,"Emilia-Romagna",3,34
+2022-07-12,"Friuli-Venezia Giulia",0,4
+2022-07-12,"Lazio",14,66
+2022-07-12,"Liguria",1,2
+2022-07-12,"Lombardia",12,147
+2022-07-12,"Marche",0,1
+2022-07-12,"Molise",0,0
+2022-07-12,"Piemonte",0,6
+2022-07-12,"Puglia",1,7
+2022-07-12,"Sardegna",0,0
+2022-07-12,"Sicilia",0,0
+2022-07-12,"Toscana",1,4
+2022-07-12,"PA Bolzano",0,1
+2022-07-12,"PA Trento",0,1
+2022-07-12,"Umbria",0,0
+2022-07-12,"Valle d'Aosta",0,0
+2022-07-12,"Veneto",5,18
+2022-07-15,"Basilicata",0,0
+2022-07-15,"Calabria",0,0
+2022-07-15,"Campania",2,3
+2022-07-15,"Emilia-Romagna",8,42
+2022-07-15,"Friuli-Venezia Giulia",2,6
+2022-07-15,"Lazio",5,71
+2022-07-15,"Liguria",3,5
+2022-07-15,"Lombardia",17,164
+2022-07-15,"Marche",1,2
+2022-07-15,"Molise",0,0
+2022-07-15,"Piemonte",0,6
+2022-07-15,"Puglia",0,7
+2022-07-15,"Sardegna",0,0
+2022-07-15,"Sicilia",2,2
+2022-07-15,"Toscana",3,7
+2022-07-15,"PA Bolzano",0,1
+2022-07-15,"PA Trento",0,1
+2022-07-15,"Umbria",0,0
+2022-07-15,"Valle d'Aosta",0,0
+2022-07-15,"Veneto",4,22
+2022-07-19,"Basilicata",0,0
+2022-07-19,"Calabria",0,0
+2022-07-19,"Campania",0,3
+2022-07-19,"Emilia-Romagna",2,44
+2022-07-19,"Friuli-Venezia Giulia",1,7
+2022-07-19,"Lazio",9,80
+2022-07-19,"Liguria",3,8
+2022-07-19,"Lombardia",11,175
+2022-07-19,"Marche",0,2
+2022-07-19,"Molise",0,0
+2022-07-19,"Piemonte",1,7
+2022-07-19,"Puglia",0,7
+2022-07-19,"Sardegna",0,0
+2022-07-19,"Sicilia",0,2
+2022-07-19,"Toscana",2,9
+2022-07-19,"PA Bolzano",0,1
+2022-07-19,"PA Trento",1,2
+2022-07-19,"Umbria",0,0
+2022-07-19,"Valle d'Aosta",0,0
+2022-07-19,"Veneto",5,27
+2022-07-22,"Basilicata",0,0
+2022-07-22,"Calabria",0,0
+2022-07-22,"Campania",0,3
+2022-07-22,"Emilia-Romagna",3,47
+2022-07-22,"Friuli-Venezia Giulia",1,8
+2022-07-22,"Lazio",8,88
+2022-07-22,"Liguria",0,8
+2022-07-22,"Lombardia",16,191
+2022-07-22,"Marche",0,2
+2022-07-22,"Molise",0,0
+2022-07-22,"Piemonte",0,7
+2022-07-22,"Puglia",1,8
+2022-07-22,"Sardegna",0,0
+2022-07-22,"Sicilia",0,2
+2022-07-22,"Toscana",0,9
+2022-07-22,"PA Bolzano",0,1
+2022-07-22,"PA Trento",0,2
+2022-07-22,"Umbria",0,0
+2022-07-22,"Valle d'Aosta",0,0
+2022-07-22,"Veneto",4,31
+2022-07-26,"Basilicata",0,0
+2022-07-26,"Calabria",0,0
+2022-07-26,"Campania",1,4
+2022-07-26,"Emilia-Romagna",2,49
+2022-07-26,"Friuli-Venezia Giulia",1,9
+2022-07-26,"Lazio",2,90
+2022-07-26,"Liguria",0,8
+2022-07-26,"Lombardia",6,197
+2022-07-26,"Marche",0,2
+2022-07-26,"Molise",0,0
+2022-07-26,"Piemonte",3,10
+2022-07-26,"Puglia",0,8
+2022-07-26,"Sardegna",0,0
+2022-07-26,"Sicilia",0,2
+2022-07-26,"Toscana",3,12
+2022-07-26,"PA Bolzano",0,1
+2022-07-26,"PA Trento",1,3
+2022-07-26,"Umbria",0,0
+2022-07-26,"Valle d'Aosta",0,0
+2022-07-26,"Veneto",0,31
+2022-07-29,"Basilicata",0,0
+2022-07-29,"Calabria",0,0
+2022-07-29,"Campania",2,6
+2022-07-29,"Emilia-Romagna",6,55
+2022-07-29,"Friuli-Venezia Giulia",0,9
+2022-07-29,"Lazio",11,101
+2022-07-29,"Liguria",0,8
+2022-07-29,"Lombardia",19,216
+2022-07-29,"Marche",0,2
+2022-07-29,"Molise",0,0
+2022-07-29,"Piemonte",8,18
+2022-07-29,"Puglia",0,8
+2022-07-29,"Sardegna",0,0
+2022-07-29,"Sicilia",0,2
+2022-07-29,"Toscana",4,16
+2022-07-29,"PA Bolzano",0,1
+2022-07-29,"PA Trento",0,3
+2022-07-29,"Umbria",0,0
+2022-07-29,"Valle d'Aosta",0,0
+2022-07-29,"Veneto",2,33
+2022-08-02,"Basilicata",0,0
+2022-08-02,"Calabria",0,0
+2022-08-02,"Campania",1,7
+2022-08-02,"Emilia-Romagna",2,57
+2022-08-02,"Friuli-Venezia Giulia",0,9
+2022-08-02,"Lazio",3,104
+2022-08-02,"Liguria",1,9
+2022-08-02,"Lombardia",16,232
+2022-08-02,"Marche",0,2
+2022-08-02,"Molise",0,0
+2022-08-02,"Piemonte",0,18
+2022-08-02,"Puglia",1,9
+2022-08-02,"Sardegna",1,1
+2022-08-02,"Sicilia",0,2
+2022-08-02,"Toscana",1,17
+2022-08-02,"PA Bolzano",0,1
+2022-08-02,"PA Trento",0,3
+2022-08-02,"Umbria",0,0
+2022-08-02,"Valle d'Aosta",0,0
+2022-08-02,"Veneto",0,33
+2022-08-05,"Abruzzo",1,1
+2022-08-05,"Basilicata",0,0
+2022-08-05,"Calabria",0,0
+2022-08-05,"Campania",0,7
+2022-08-05,"Emilia-Romagna",5,62
+2022-08-05,"Friuli-Venezia Giulia",1,10
+2022-08-05,"Lazio",5,109
+2022-08-05,"Liguria",0,9
+2022-08-05,"Lombardia",18,250
+2022-08-05,"Marche",0,2
+2022-08-05,"Molise",0,0
+2022-08-05,"Piemonte",3,21
+2022-08-05,"Puglia",0,9
+2022-08-05,"Sardegna",0,1
+2022-08-05,"Sicilia",0,2
+2022-08-05,"Toscana",4,21
+2022-08-05,"PA Bolzano",0,1
+2022-08-05,"PA Trento",0,3
+2022-08-05,"Umbria",0,0
+2022-08-05,"Valle d'Aosta",0,0
+2022-08-05,"Veneto",4,37
+2022-08-09,"Abruzzo",1,2
+2022-08-09,"Basilicata",0,0
+2022-08-09,"Calabria",0,0
+2022-08-09,"Campania",11,18
+2022-08-09,"Emilia-Romagna",3,65
+2022-08-09,"Friuli-Venezia Giulia",1,11
+2022-08-09,"Lazio",5,114
+2022-08-09,"Liguria",3,12
+2022-08-09,"Lombardia",15,265
+2022-08-09,"Marche",2,4
+2022-08-09,"Molise",0,0
+2022-08-09,"Piemonte",1,22
+2022-08-09,"Puglia",3,12
+2022-08-09,"Sardegna",0,1
+2022-08-09,"Sicilia",0,2
+2022-08-09,"Toscana",4,25
+2022-08-09,"PA Bolzano",0,1
+2022-08-09,"PA Trento",0,3
+2022-08-09,"Umbria",0,0
+2022-08-09,"Valle d'Aosta",0,0
+2022-08-09,"Veneto",5,42
+2022-08-12,"Abruzzo",0,2
+2022-08-12,"Basilicata",0,0
+2022-08-12,"Calabria",0,0
+2022-08-12,"Campania",3,21
+2022-08-12,"Emilia-Romagna",4,69
+2022-08-12,"Friuli-Venezia Giulia",0,11
+2022-08-12,"Lazio",4,118
+2022-08-12,"Liguria",1,13
+2022-08-12,"Lombardia",18,283
+2022-08-12,"Marche",0,4
+2022-08-12,"Molise",0,0
+2022-08-12,"Piemonte",3,25
+2022-08-12,"Puglia",1,13
+2022-08-12,"Sardegna",2,3
+2022-08-12,"Sicilia",2,4
+2022-08-12,"Toscana",5,30
+2022-08-12,"PA Bolzano",0,1
+2022-08-12,"PA Trento",0,3
+2022-08-12,"Umbria",0,0
+2022-08-12,"Valle d'Aosta",0,0
+2022-08-12,"Veneto",2,44
+2022-08-16,"Abruzzo",0,2
+2022-08-16,"Basilicata",0,0
+2022-08-16,"Calabria",0,0
+2022-08-16,"Campania",0,21
+2022-08-16,"Emilia-Romagna",1,70
+2022-08-16,"Friuli-Venezia Giulia",0,11
+2022-08-16,"Lazio",3,121
+2022-08-16,"Liguria",0,13
+2022-08-16,"Lombardia",8,291
+2022-08-16,"Marche",0,4
+2022-08-16,"Molise",0,0
+2022-08-16,"Piemonte",0,25
+2022-08-16,"Puglia",1,14
+2022-08-16,"Sardegna",1,4
+2022-08-16,"Sicilia",1,5
+2022-08-16,"Toscana",1,31
+2022-08-16,"PA Bolzano",0,1
+2022-08-16,"PA Trento",0,3
+2022-08-16,"Umbria",0,0
+2022-08-16,"Valle d'Aosta",0,0
+2022-08-16,"Veneto",2,46
+2022-08-19,"Abruzzo",0,2
+2022-08-19,"Basilicata",0,0
+2022-08-19,"Calabria",0,0
+2022-08-19,"Campania",8,29
+2022-08-19,"Emilia-Romagna",2,72
+2022-08-19,"Friuli-Venezia Giulia",0,11
+2022-08-19,"Lazio",4,125
+2022-08-19,"Liguria",2,15
+2022-08-19,"Lombardia",6,297
+2022-08-19,"Marche",0,4
+2022-08-19,"Molise",0,0
+2022-08-19,"Piemonte",1,26
+2022-08-19,"Puglia",0,14
+2022-08-19,"Sardegna",0,4
+2022-08-19,"Sicilia",0,5
+2022-08-19,"Toscana",2,33
+2022-08-19,"PA Bolzano",0,1
+2022-08-19,"PA Trento",0,3
+2022-08-19,"Umbria",0,0
+2022-08-19,"Valle d'Aosta",0,0
+2022-08-19,"Veneto",2,48
+2022-08-23,"Abruzzo",0,2
+2022-08-23,"Basilicata",0,0
+2022-08-23,"Calabria",0,0
+2022-08-23,"Campania",2,31
+2022-08-23,"Emilia-Romagna",1,73
+2022-08-23,"Friuli-Venezia Giulia",0,11
+2022-08-23,"Lazio",3,128
+2022-08-23,"Liguria",1,16
+2022-08-23,"Lombardia",11,308
+2022-08-23,"Marche",1,5
+2022-08-23,"Molise",0,0
+2022-08-23,"Piemonte",0,26
+2022-08-23,"Puglia",2,16
+2022-08-23,"Sardegna",0,4
+2022-08-23,"Sicilia",0,5
+2022-08-23,"Toscana",3,36
+2022-08-23,"PA Bolzano",0,1
+2022-08-23,"PA Trento",1,4
+2022-08-23,"Umbria",0,0
+2022-08-23,"Valle d'Aosta",0,0
+2022-08-23,"Veneto",0,48
+2022-08-26,"Abruzzo",2,0
+2022-08-26,"Basilicata",0,0
+2022-08-26,"Calabria",0,0
+2022-08-26,"Campania",32,1
+2022-08-26,"Emilia-Romagna",75,2
+2022-08-26,"Friuli-Venezia Giulia",11,0
+2022-08-26,"Lazio",136,8
+2022-08-26,"Liguria",16,0
+2022-08-26,"Lombardia",318,10
+2022-08-26,"Marche",5,0
+2022-08-26,"Molise",0,0
+2022-08-26,"Piemonte",26,0
+2022-08-26,"Puglia",17,1
+2022-08-26,"Sardegna",4,0
+2022-08-26,"Sicilia",6,1
+2022-08-26,"Toscana",38,2
+2022-08-26,"PA Bolzano",1,0
+2022-08-26,"PA Trento",4,0
+2022-08-26,"Umbria",0,0
+2022-08-26,"Valle d'Aosta",0,0
+2022-08-26,"Veneto",49,1
+2022-08-30,"Abruzzo",2,0
+2022-08-30,"Basilicata",0,0
+2022-08-30,"Calabria",0,0
+2022-08-30,"Campania",37,5
+2022-08-30,"Emilia-Romagna",75,0
+2022-08-30,"Friuli-Venezia Giulia",12,1
+2022-08-30,"Lazio",138,2
+2022-08-30,"Liguria",16,0
+2022-08-30,"Lombardia",322,4
+2022-08-30,"Marche",6,1
+2022-08-30,"Molise",0,0
+2022-08-30,"Piemonte",27,1
+2022-08-30,"Puglia",17,0
+2022-08-30,"Sardegna",5,1
+2022-08-30,"Sicilia",7,1
+2022-08-30,"Toscana",38,0
+2022-08-30,"PA Bolzano",1,0
+2022-08-30,"PA Trento",4,0
+2022-08-30,"Umbria",0,0
+2022-08-30,"Valle d'Aosta",0,0
+2022-08-30,"Veneto",53,4
+2022-09-02,"Abruzzo",1,3
+2022-09-02,"Basilicata",0,0
+2022-09-02,"Calabria",0,0
+2022-09-02,"Campania",1,38
+2022-09-02,"Emilia-Romagna",2,77
+2022-09-02,"Friuli-Venezia Giulia",1,13
+2022-09-02,"Lazio",1,139
+2022-09-02,"Liguria",0,16
+2022-09-02,"Lombardia",4,326
+2022-09-02,"Marche",0,6
+2022-09-02,"Molise",0,0
+2022-09-02,"Piemonte",0,27
+2022-09-02,"Puglia",0,17
+2022-09-02,"Sardegna",0,5
+2022-09-02,"Sicilia",0,7
+2022-09-02,"Toscana",1,39
+2022-09-02,"PA Bolzano",0,1
+2022-09-02,"PA Trento",0,4
+2022-09-02,"Umbria",0,0
+2022-09-02,"Valle d'Aosta",0,0
+2022-09-02,"Veneto",2,55
+2022-09-06,"Abruzzo",0,3
+2022-09-06,"Basilicata",0,0
+2022-09-06,"Calabria",0,0
+2022-09-06,"Campania",0,38
+2022-09-06,"Emilia-Romagna",2,79
+2022-09-06,"Friuli-Venezia Giulia",1,14
+2022-09-06,"Lazio",1,140
+2022-09-06,"Liguria",2,18
+2022-09-06,"Lombardia",4,330
+2022-09-06,"Marche",1,7
+2022-09-06,"Molise",0,0
+2022-09-06,"Piemonte",0,27
+2022-09-06,"Puglia",1,18
+2022-09-06,"Sardegna",0,5
+2022-09-06,"Sicilia",1,8
+2022-09-06,"Toscana",1,40
+2022-09-06,"PA Bolzano",0,1
+2022-09-06,"PA Trento",0,4
+2022-09-06,"Umbria",0,0
+2022-09-06,"Valle d'Aosta",0,0
+2022-09-06,"Veneto",0,55
+2022-09-09,"Abruzzo",0,3
+2022-09-09,"Basilicata",0,0
+2022-09-09,"Calabria",0,0
+2022-09-09,"Campania",2,40
+2022-09-09,"Emilia-Romagna",1,80
+2022-09-09,"Friuli-Venezia Giulia",0,14
+2022-09-09,"Lazio",1,141
+2022-09-09,"Liguria",0,18
+2022-09-09,"Lombardia",3,333
+2022-09-09,"Marche",0,7
+2022-09-09,"Molise",0,0
+2022-09-09,"Piemonte",4,31
+2022-09-09,"Puglia",1,19
+2022-09-09,"Sardegna",0,5
+2022-09-09,"Sicilia",1,9
+2022-09-09,"Toscana",3,43
+2022-09-09,"PA Bolzano",0,1
+2022-09-09,"PA Trento",0,4
+2022-09-09,"Umbria",0,0
+2022-09-09,"Valle d'Aosta",0,0
+2022-09-09,"Veneto",2,57
+2022-09-13,"Abruzzo",1,4
+2022-09-13,"Basilicata",0,0
+2022-09-13,"Calabria",0,0
+2022-09-13,"Campania",0,40
+2022-09-13,"Emilia-Romagna",0,80
+2022-09-13,"Friuli-Venezia Giulia",0,14
+2022-09-13,"Lazio",0,141
+2022-09-13,"Liguria",0,18
+2022-09-13,"Lombardia",4,337
+2022-09-13,"Marche",0,7
+2022-09-13,"Molise",0,0
+2022-09-13,"Piemonte",0,31
+2022-09-13,"Puglia",1,20
+2022-09-13,"Sardegna",0,5
+2022-09-13,"Sicilia",0,9
+2022-09-13,"Toscana",1,44
+2022-09-13,"PA Bolzano",0,1
+2022-09-13,"PA Trento",0,4
+2022-09-13,"Umbria",0,0
+2022-09-13,"Valle d'Aosta",0,0
+2022-09-13,"Veneto",1,58
+2022-09-16,"Abruzzo",0,4
+2022-09-16,"Basilicata",0,0
+2022-09-16,"Calabria",0,0
+2022-09-16,"Campania",0,40
+2022-09-16,"Emilia-Romagna",3,83
+2022-09-16,"Friuli-Venezia Giulia",0,14
+2022-09-16,"Lazio",2,143
+2022-09-16,"Liguria",0,18
+2022-09-16,"Lombardia",7,344
+2022-09-16,"Marche",0,7
+2022-09-16,"Molise",0,0
+2022-09-16,"Piemonte",0,31
+2022-09-16,"Puglia",1,21
+2022-09-16,"Sardegna",1,6
+2022-09-16,"Sicilia",1,10
+2022-09-16,"Toscana",0,44
+2022-09-16,"PA Bolzano",0,1
+2022-09-16,"PA Trento",0,4
+2022-09-16,"Umbria",0,0
+2022-09-16,"Valle d'Aosta",0,0
+2022-09-16,"Veneto",0,58
+2022-09-20,"Abruzzo",0,4
+2022-09-20,"Basilicata",0,0
+2022-09-20,"Calabria",0,0
+2022-09-20,"Campania",0,40
+2022-09-20,"Emilia-Romagna",1,84
+2022-09-20,"Friuli-Venezia Giulia",0,14
+2022-09-20,"Lazio",2,145
+2022-09-20,"Liguria",0,18
+2022-09-20,"Lombardia",3,347
+2022-09-20,"Marche",0,7
+2022-09-20,"Molise",0,0
+2022-09-20,"Piemonte",0,31
+2022-09-20,"Puglia",0,21
+2022-09-20,"Sardegna",0,6
+2022-09-20,"Sicilia",1,11
+2022-09-20,"Toscana",1,45
+2022-09-20,"PA Bolzano",0,1
+2022-09-20,"PA Trento",0,4
+2022-09-20,"Umbria",0,0
+2022-09-20,"Valle d'Aosta",0,0
+2022-09-20,"Veneto",1,59
+2022-09-23,"Abruzzo",0,4
+2022-09-23,"Basilicata",0,0
+2022-09-23,"Calabria",0,0
+2022-09-23,"Campania",0,40
+2022-09-23,"Emilia-Romagna",0,84
+2022-09-23,"Friuli-Venezia Giulia",0,14
+2022-09-23,"Lazio",0,145
+2022-09-23,"Liguria",0,18
+2022-09-23,"Lombardia",1,348
+2022-09-23,"Marche",0,7
+2022-09-23,"Molise",0,0
+2022-09-23,"Piemonte",1,32
+2022-09-23,"Puglia",0,21
+2022-09-23,"Sardegna",0,6
+2022-09-23,"Sicilia",0,11
+2022-09-23,"Toscana",0,45
+2022-09-23,"PA Bolzano",0,1
+2022-09-23,"PA Trento",0,4
+2022-09-23,"Umbria",0,0
+2022-09-23,"Valle d'Aosta",0,0
+2022-09-23,"Veneto",3,62
+2022-09-27,"Abruzzo",0,4
+2022-09-27,"Basilicata",0,0
+2022-09-27,"Calabria",0,0
+2022-09-27,"Campania",0,40
+2022-09-27,"Emilia-Romagna",1,85
+2022-09-27,"Friuli-Venezia Giulia",0,14
+2022-09-27,"Lazio",1,146
+2022-09-27,"Liguria",0,18
+2022-09-27,"Lombardia",0,348
+2022-09-27,"Marche",0,7
+2022-09-27,"Molise",0,0
+2022-09-27,"Piemonte",0,32
+2022-09-27,"Puglia",0,21
+2022-09-27,"Sardegna",0,6
+2022-09-27,"Sicilia",1,12
+2022-09-27,"Toscana",0,45
+2022-09-27,"PA Bolzano",0,1
+2022-09-27,"PA Trento",0,4
+2022-09-27,"Umbria",0,0
+2022-09-27,"Valle d'Aosta",0,0
+2022-09-27,"Veneto",1,63
+2022-09-30,"Abruzzo",0,4
+2022-09-30,"Basilicata",0,0
+2022-09-30,"Calabria",0,0
+2022-09-30,"Campania",0,40
+2022-09-30,"Emilia-Romagna",0,85
+2022-09-30,"Friuli-Venezia Giulia",0,14
+2022-09-30,"Lazio",4,150
+2022-09-30,"Liguria",0,18
+2022-09-30,"Lombardia",0,348
+2022-09-30,"Marche",0,7
+2022-09-30,"Molise",0,0
+2022-09-30,"Piemonte",0,32
+2022-09-30,"Puglia",0,21
+2022-09-30,"Sardegna",0,6
+2022-09-30,"Sicilia",0,12
+2022-09-30,"Toscana",0,45
+2022-09-30,"PA Bolzano",0,1
+2022-09-30,"PA Trento",0,4
+2022-09-30,"Umbria",0,0
+2022-09-30,"Valle d'Aosta",0,0
+2022-09-30,"Veneto",0,63
+2022-10-04,"Abruzzo",0,4
+2022-10-04,"Basilicata",0,0
+2022-10-04,"Calabria",0,0
+2022-10-04,"Campania",0,40
+2022-10-04,"Emilia-Romagna",0,85
+2022-10-04,"Friuli-Venezia Giulia",0,14
+2022-10-04,"Lazio",0,150
+2022-10-04,"Liguria",0,18
+2022-10-04,"Lombardia",0,348
+2022-10-04,"Marche",0,7
+2022-10-04,"Molise",0,0
+2022-10-04,"Piemonte",0,32
+2022-10-04,"Puglia",0,21
+2022-10-04,"Sardegna",0,6
+2022-10-04,"Sicilia",1,13
+2022-10-04,"Toscana",0,45
+2022-10-04,"PA Bolzano",0,1
+2022-10-04,"PA Trento",0,4
+2022-10-04,"Umbria",0,0
+2022-10-04,"Valle d'Aosta",0,0
+2022-10-04,"Veneto",0,63
+2022-10-07,"Abruzzo",0,4
+2022-10-07,"Basilicata",0,0
+2022-10-07,"Calabria",0,0
+2022-10-07,"Campania",0,40
+2022-10-07,"Emilia-Romagna",0,85
+2022-10-07,"Friuli-Venezia Giulia",0,14
+2022-10-07,"Lazio",1,151
+2022-10-07,"Liguria",0,18
+2022-10-07,"Lombardia",2,350
+2022-10-07,"Marche",0,7
+2022-10-07,"Molise",0,0
+2022-10-07,"Piemonte",0,32
+2022-10-07,"Puglia",0,21
+2022-10-07,"Sardegna",0,6
+2022-10-07,"Sicilia",1,13
+2022-10-07,"Toscana",0,45
+2022-10-07,"PA Bolzano",0,1
+2022-10-07,"PA Trento",0,4
+2022-10-07,"Umbria",0,0
+2022-10-07,"Valle d'Aosta",0,0
+2022-10-07,"Veneto",0,63
+2022-10-11,"Abruzzo",0,4
+2022-10-11,"Basilicata",0,0
+2022-10-11,"Calabria",0,0
+2022-10-11,"Campania",0,40
+2022-10-11,"Emilia-Romagna",0,85
+2022-10-11,"Friuli-Venezia Giulia",0,14
+2022-10-11,"Lazio",0,151
+2022-10-11,"Liguria",0,18
+2022-10-11,"Lombardia",0,350
+2022-10-11,"Marche",0,7
+2022-10-11,"Molise",0,0
+2022-10-11,"Piemonte",0,32
+2022-10-11,"Puglia",0,21
+2022-10-11,"Sardegna",0,6
+2022-10-11,"Sicilia",2,15
+2022-10-11,"Toscana",0,45
+2022-10-11,"PA Bolzano",0,1
+2022-10-11,"PA Trento",0,4
+2022-10-11,"Umbria",0,0
+2022-10-11,"Valle d'Aosta",0,0
+2022-10-11,"Veneto",0,63
+2022-10-17,"Abruzzo",0,4
+2022-10-17,"Basilicata",0,0
+2022-10-17,"Calabria",0,0
+2022-10-17,"Campania",6,46
+2022-10-17,"Emilia-Romagna",3,88
+2022-10-17,"Friuli-Venezia Giulia",0,14
+2022-10-17,"Lazio",1,152
+2022-10-17,"Liguria",8,26
+2022-10-17,"Lombardia",4,354
+2022-10-17,"Marche",0,7
+2022-10-17,"Molise",0,0
+2022-10-17,"Piemonte",1,33
+2022-10-17,"Puglia",0,21
+2022-10-17,"Sardegna",0,6
+2022-10-17,"Sicilia",0,15
+2022-10-17,"Toscana",2,47
+2022-10-17,"PA Bolzano",0,1
+2022-10-17,"PA Trento",0,4
+2022-10-17,"Umbria",0,0
+2022-10-17,"Valle d'Aosta",0,0
+2022-10-17,"Veneto",0,63
