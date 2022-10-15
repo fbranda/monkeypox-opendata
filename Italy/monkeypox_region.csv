@@ -405,48 +405,48 @@
 2022-08-23,"Umbria",0,0
 2022-08-23,"Valle d'Aosta",0,0
 2022-08-23,"Veneto",0,48
-2022-08-26,"Abruzzo",2,0
+2022-08-26,"Abruzzo",0,2
 2022-08-26,"Basilicata",0,0
 2022-08-26,"Calabria",0,0
-2022-08-26,"Campania",32,1
-2022-08-26,"Emilia-Romagna",75,2
-2022-08-26,"Friuli-Venezia Giulia",11,0
-2022-08-26,"Lazio",136,8
-2022-08-26,"Liguria",16,0
-2022-08-26,"Lombardia",318,10
-2022-08-26,"Marche",5,0
+2022-08-26,"Campania",1,32
+2022-08-26,"Emilia-Romagna",2,75
+2022-08-26,"Friuli-Venezia Giulia",0,11
+2022-08-26,"Lazio",8,136
+2022-08-26,"Liguria",0,16
+2022-08-26,"Lombardia",10,318
+2022-08-26,"Marche",0,5
 2022-08-26,"Molise",0,0
-2022-08-26,"Piemonte",26,0
-2022-08-26,"Puglia",17,1
-2022-08-26,"Sardegna",4,0
-2022-08-26,"Sicilia",6,1
-2022-08-26,"Toscana",38,2
-2022-08-26,"PA Bolzano",1,0
-2022-08-26,"PA Trento",4,0
+2022-08-26,"Piemonte",0,26
+2022-08-26,"Puglia",1,17
+2022-08-26,"Sardegna",0,4
+2022-08-26,"Sicilia",1,6
+2022-08-26,"Toscana",2,38
+2022-08-26,"PA Bolzano",0,1
+2022-08-26,"PA Trento",0,4
 2022-08-26,"Umbria",0,0
 2022-08-26,"Valle d'Aosta",0,0
-2022-08-26,"Veneto",49,1
-2022-08-30,"Abruzzo",2,0
+2022-08-26,"Veneto",1,49
+2022-08-30,"Abruzzo",0,2
 2022-08-30,"Basilicata",0,0
 2022-08-30,"Calabria",0,0
-2022-08-30,"Campania",37,5
-2022-08-30,"Emilia-Romagna",75,0
-2022-08-30,"Friuli-Venezia Giulia",12,1
-2022-08-30,"Lazio",138,2
-2022-08-30,"Liguria",16,0
-2022-08-30,"Lombardia",322,4
-2022-08-30,"Marche",6,1
+2022-08-30,"Campania",5,37
+2022-08-30,"Emilia-Romagna",0,75
+2022-08-30,"Friuli-Venezia Giulia",1,12
+2022-08-30,"Lazio",2,138
+2022-08-30,"Liguria",0,16
+2022-08-30,"Lombardia",4,322
+2022-08-30,"Marche",1,6
 2022-08-30,"Molise",0,0
-2022-08-30,"Piemonte",27,1
-2022-08-30,"Puglia",17,0
-2022-08-30,"Sardegna",5,1
-2022-08-30,"Sicilia",7,1
-2022-08-30,"Toscana",38,0
-2022-08-30,"PA Bolzano",1,0
-2022-08-30,"PA Trento",4,0
+2022-08-30,"Piemonte",1,27
+2022-08-30,"Puglia",0,17
+2022-08-30,"Sardegna",1,5
+2022-08-30,"Sicilia",1,7
+2022-08-30,"Toscana",0,38
+2022-08-30,"PA Bolzano",0,1
+2022-08-30,"PA Trento",0,4
 2022-08-30,"Umbria",0,0
 2022-08-30,"Valle d'Aosta",0,0
-2022-08-30,"Veneto",53,4
+2022-08-30,"Veneto",4,53
 2022-09-02,"Abruzzo",1,3
 2022-09-02,"Basilicata",0,0
 2022-09-02,"Calabria",0,0
@@ -699,24 +699,24 @@
 2022-10-11,"Umbria",0,0
 2022-10-11,"Valle d'Aosta",0,0
 2022-10-11,"Veneto",0,63
-2022-10-17,"Abruzzo",0,4
-2022-10-17,"Basilicata",0,0
-2022-10-17,"Calabria",0,0
-2022-10-17,"Campania",6,46
-2022-10-17,"Emilia-Romagna",3,88
-2022-10-17,"Friuli-Venezia Giulia",0,14
-2022-10-17,"Lazio",1,152
-2022-10-17,"Liguria",8,26
-2022-10-17,"Lombardia",4,354
-2022-10-17,"Marche",0,7
-2022-10-17,"Molise",0,0
-2022-10-17,"Piemonte",1,33
-2022-10-17,"Puglia",0,21
-2022-10-17,"Sardegna",0,6
-2022-10-17,"Sicilia",0,15
-2022-10-17,"Toscana",2,47
-2022-10-17,"PA Bolzano",0,1
-2022-10-17,"PA Trento",0,4
-2022-10-17,"Umbria",0,0
-2022-10-17,"Valle d'Aosta",0,0
-2022-10-17,"Veneto",0,63
+2022-10-14,"Abruzzo",0,4
+2022-10-14,"Basilicata",0,0
+2022-10-14,"Calabria",0,0
+2022-10-14,"Campania",6,46
+2022-10-14,"Emilia-Romagna",3,88
+2022-10-14,"Friuli-Venezia Giulia",0,14
+2022-10-14,"Lazio",1,152
+2022-10-14,"Liguria",8,26
+2022-10-14,"Lombardia",4,354
+2022-10-14,"Marche",0,7
+2022-10-14,"Molise",0,0
+2022-10-14,"Piemonte",1,33
+2022-10-14,"Puglia",0,21
+2022-10-14,"Sardegna",0,6
+2022-10-14,"Sicilia",0,15
+2022-10-14,"Toscana",2,47
+2022-10-14,"PA Bolzano",0,1
+2022-10-14,"PA Trento",0,4
+2022-10-14,"Umbria",0,0
+2022-10-14,"Valle d'Aosta",0,0
+2022-10-14,"Veneto",0,63
