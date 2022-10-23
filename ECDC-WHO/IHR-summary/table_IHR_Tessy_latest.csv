@@ -1,23 +1,23 @@
 "country","IHR","TESSy"
-"Spain",7239,7239
-"France",4043,4042
-"United Kingdom",3654,3627
+"Spain",7277,7239
+"France",4084,4084
+"United Kingdom",3686,3640
 "Germany",3651,3651
-"Netherlands",1223,1223
-"Portugal",930,859
-"Italy",856,856
-"Belgium",778,779
-"Switzerland",521,521
-"Austria",319,319
-"Israel",254,230
-"Sweden",202,202
-"Ireland",198,198
-"Poland",196,196
-"Denmark",189,189
+"Netherlands",1226,1226
+"Portugal",940,920
+"Italy",888,888
+"Belgium",784,785
+"Switzerland",542,542
+"Austria",322,322
+"Israel",257,230
+"Sweden",207,207
+"Poland",201,201
+"Ireland",200,200
+"Denmark",191,191
 "Norway",92,92
 "Greece",82,82
 "Hungary",78,78
-"Czechia",72,72
+"Czechia",70,70
 "Luxembourg",55,55
 "Slovenia",47,47
 "Finland",41,40
@@ -29,10 +29,10 @@
 "Slovakia",14,14
 "Turkey",12,12
 "Estonia",11,11
-"Bosnia and Herzegovina",6,6
+"Bosnia and Herzegovina",9,9
 "Bulgaria",6,6
 "Gibraltar",6,5
-"Latvia",6,5
+"Latvia",6,6
 "Cyprus",5,5
 "Lithuania",5,5
 "Ukraine",5,5
@@ -44,4 +44,4 @@
 "Republic of Moldova",2,2
 "Russian Federation",2,0
 "San Marino",1,1
-"Total",24973,24839
+"Total",25177,25036

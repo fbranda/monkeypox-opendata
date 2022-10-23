@@ -1,33 +1,33 @@
 "country","confirmed_cases","probable_cases","total_cases","total_deaths"
 "Andorra",4,0,4,0
-"Austria",318,1,319,0
-"Belgium",779,0,779,1
-"Bosnia and Herzegovina",6,0,6,0
+"Austria",321,1,322,0
+"Belgium",785,0,785,1
+"Bosnia and Herzegovina",9,0,9,0
 "Bulgaria",6,0,6,0
 "Croatia",29,0,29,0
 "Cyprus",5,0,5,0
-"Czechia",69,3,72,1
-"Denmark",189,0,189,0
+"Czechia",69,1,70,1
+"Denmark",191,0,191,0
 "Estonia",11,0,11,0
 "Finland",40,0,40,0
-"France",4042,0,4042,0
+"France",4084,0,4084,0
 "Georgia",2,0,2,0
 "Germany",3651,0,3651,0
 "Gibraltar",5,0,5,0
 "Greece",82,0,82,0
 "Hungary",78,0,78,0
 "Iceland",16,0,16,0
-"Ireland",198,0,198,0
+"Ireland",200,0,200,0
 "Israel",230,0,230,0
-"Italy",856,0,856,0
-"Latvia",5,0,5,0
+"Italy",888,0,888,0
+"Latvia",6,0,6,0
 "Lithuania",5,0,5,0
 "Luxembourg",55,0,55,0
 "Malta",33,0,33,0
-"Netherlands",1223,0,1223,0
+"Netherlands",1226,0,1226,0
 "Norway",92,0,92,0
-"Poland",174,22,196,0
-"Portugal",859,0,859,0
+"Poland",179,22,201,0
+"Portugal",920,0,920,0
 "Republic of Moldova",2,0,2,0
 "Romania",41,0,41,0
 "San Marino",1,0,1,0
@@ -35,9 +35,9 @@
 "Slovakia",14,0,14,0
 "Slovenia",47,0,47,0
 "Spain",7239,0,7239,2
-"Sweden",202,0,202,0
-"Switzerland",521,0,521,0
+"Sweden",207,0,207,0
+"Switzerland",542,0,542,0
 "Turkey",12,0,12,0
 "Ukraine",5,0,5,0
-"United Kingdom",3477,150,3627,0
-"Total",24663,176,24839,4
+"United Kingdom",3491,149,3640,0
+"Total",24863,173,25036,4
