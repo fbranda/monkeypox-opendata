@@ -262,6 +262,9 @@ and Italian epidemic. Journal of Clinical Virology Plus 2022;p. 100114.](https:/
 
 2) [Bayesian framework for Monkeypox R0 early estimation in Europe](https://github.com/maxdevblock/Monkeypox_R0_Europe)
 
+3) [Branda F, Pierini M, Mazzoli S. Monkeypox: Early Estimation of Basic Reproduction Number R0 in Europe. Journal of Medical Virology](https://onlinelibrary.wiley.com/doi/10.1002/jmv.2827)
+
+
 ## License and attribution
 
 This repository and data exports are published under the CC BY 4.0 license.
