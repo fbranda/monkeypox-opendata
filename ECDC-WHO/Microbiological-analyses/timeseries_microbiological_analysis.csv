@@ -1,208 +1,217 @@
-"data_bulletin","specimen","cases"
-2022-06-22,"Lesion swab",42
-2022-06-22,"Oropharyngeal swab",17
-2022-06-22,"Lesion crust",8
-2022-06-22,"Rectal swab",7
-2022-06-22,"Urine",1
-2022-06-22,"Serum",0
-2022-06-22,"Semen",0
-2022-06-22,"Genital swab",0
-2022-06-22,"Total",75
-2022-06-29,"Lesion swab",86
-2022-06-29,"Oropharyngeal swab",37
-2022-06-29,"Lesion crust",29
-2022-06-29,"Rectal swab",16
-2022-06-29,"Genital swab",5
-2022-06-29,"Urine",1
-2022-06-29,"Serum",0
-2022-06-29,"Semen",0
-2022-06-29,"Total",174
-2022-07-06,"Lesion swab",126
-2022-07-06,"Oropharyngeal swab",58
-2022-07-06,"Lesion crust",43
-2022-07-06,"Rectal swab",35
-2022-07-06,"Genital swab",11
-2022-07-06,"Urine",1
-2022-07-06,"Serum",0
-2022-07-06,"Semen",0
-2022-07-06,"Total",274
-2022-07-13,"Lesion swab",188
-2022-07-13,"Oropharyngeal swab",77
-2022-07-13,"Rectal swab",62
-2022-07-13,"Lesion crust",58
-2022-07-13,"Genital swab",13
-2022-07-13,"Urine",5
-2022-07-13,"Serum",0
-2022-07-13,"Semen",0
-2022-07-13,"Total",403
-2022-07-20,"Lesion swab",285
-2022-07-20,"Oropharyngeal swab",128
-2022-07-20,"Rectal swab",96
-2022-07-20,"Lesion crust",74
-2022-07-20,"Genital swab",23
-2022-07-20,"Urine",7
-2022-07-20,"Serum",0
-2022-07-20,"Semen",0
-2022-07-20,"Total",613
-2022-07-27,"Lesion swab",374
-2022-07-27,"Oropharyngeal swab",162
-2022-07-27,"Rectal swab",133
-2022-07-27,"Lesion crust",84
-2022-07-27,"Genital swab",26
-2022-07-27,"Urine",10
-2022-07-27,"Serum",1
-2022-07-27,"Semen",0
-2022-07-27,"Total",790
-2022-08-03,"Lesion swab",499
-2022-08-03,"Oropharyngeal swab",245
-2022-08-03,"Rectal swab",176
-2022-08-03,"Lesion crust",78
-2022-08-03,"Genital swab",65
-2022-08-03,"Urine",12
-2022-08-03,"Serum",3
-2022-08-03,"Semen",0
-2022-08-03,"Total",1078
-2022-08-10,"Lesion swab",587
-2022-08-10,"Oropharyngeal swab",305
-2022-08-10,"Rectal swab",191
-2022-08-10,"Lesion crust",85
-2022-08-10,"Genital swab",71
-2022-08-10,"Urine",18
-2022-08-10,"Serum",6
-2022-08-10,"Semen",0
-2022-08-10,"Total",1263
-2022-08-17,"Lesion swab",3227
-2022-08-17,"Lesion crust",1956
-2022-08-17,"Oropharyngeal swab",369
-2022-08-17,"Rectal swab",200
-2022-08-17,"Genital swab",76
-2022-08-17,"Urine",18
-2022-08-17,"Serum",8
-2022-08-17,"Semen",0
-2022-08-17,"Total",5854
-2022-08-24,"Lesion swab",3650
-2022-08-24,"Lesion crust",2274
-2022-08-24,"Oropharyngeal swab",391
-2022-08-24,"Rectal swab",202
-2022-08-24,"Genital swab",76
-2022-08-24,"Urine",18
-2022-08-24,"Serum",8
-2022-08-24,"Semen",0
-2022-08-24,"Total",6619
-2022-08-31,"Lesion swab",3845
-2022-08-31,"Lesion crust",2360
-2022-08-31,"Oropharyngeal swab",436
-2022-08-31,"Rectal swab",208
-2022-08-31,"Genital swab",80
-2022-08-31,"Urine",20
-2022-08-31,"Serum",8
-2022-08-31,"Semen",0
-2022-08-31,"Total",6957
-2022-09-06,"Lesion swab",3994
-2022-09-06,"Lesion crust",2440
-2022-09-06,"Oropharyngeal swab",452
-2022-09-06,"Rectal swab",209
-2022-09-06,"Genital swab",84
-2022-09-06,"Urine",20
-2022-09-06,"Serum",10
-2022-09-06,"Semen",0
-2022-09-06,"Total",7209
-2022-09-14,"Lesion swab",4458
-2022-09-14,"Lesion crust",2449
-2022-09-14,"Oropharyngeal swab",473
-2022-09-14,"Rectal swab",213
-2022-09-14,"Genital swab",85
-2022-09-14,"Urine",20
-2022-09-14,"Serum",11
-2022-09-14,"Semen",0
-2022-09-14,"Total",7709
-2022-09-21,"Lesion swab",4542
-2022-09-21,"Lesion crust",2506
-2022-09-21,"Oropharyngeal swab",488
-2022-09-21,"Rectal swab",215
-2022-09-21,"Genital swab",86
-2022-09-21,"Urine",20
-2022-09-21,"Serum",12
-2022-09-21,"Semen",0
-2022-09-21,"Total",7869
-2022-09-28,"Lesion swab",4653
-2022-09-28,"Lesion crust",2536
-2022-09-28,"Oropharyngeal swab",536
-2022-09-28,"Rectal swab",216
-2022-09-28,"Genital swab",87
-2022-09-28,"Urine",20
-2022-09-28,"Serum",12
-2022-09-28,"Semen",0
-2022-09-28,"Total",8060
-2022-10-05,"Lesion swab",4800
-2022-10-05,"Lesion crust",2556
-2022-10-05,"Oropharyngeal swab",552
-2022-10-05,"Rectal swab",220
-2022-10-05,"Genital swab",89
-2022-10-05,"Urine",20
-2022-10-05,"Serum",12
-2022-10-05,"Semen",0
-2022-10-05,"Total",8249
-2022-10-12,"Lesion swab",4835
-2022-10-12,"Lesion crust",2570
-2022-10-12,"Oropharyngeal swab",558
-2022-10-12,"Rectal swab",221
-2022-10-12,"Genital swab",89
-2022-10-12,"Urine",20
-2022-10-12,"Serum",12
-2022-10-12,"Semen",0
-2022-10-12,"Total",8305
-2022-10-19,"Lesion swab",4845
-2022-10-19,"Lesion crust",2573
-2022-10-19,"Oropharyngeal swab",564
-2022-10-19,"Rectal swab",221
-2022-10-19,"Genital swab",90
-2022-10-19,"Urine",20
-2022-10-19,"Serum",12
-2022-10-19,"Semen",0
-2022-10-19,"Total",8325
-2022-10-26,"Lesion swab",4907
-2022-10-26,"Lesion crust",2599
-2022-10-26,"Oropharyngeal swab",569
-2022-10-26,"Rectal swab",221
-2022-10-26,"Genital swab",90
-2022-10-26,"Urine",21
-2022-10-26,"Serum",12
-2022-10-26,"Semen",0
-2022-10-26,"Total",8419
-2022-11-09,"Lesion swab",4913
-2022-11-09,"Lesion crust",2600
-2022-11-09,"Oropharyngeal swab",573
-2022-11-09,"Rectal swab",221
-2022-11-09,"Genital swab",90
-2022-11-09,"Urine",21
-2022-11-09,"Serum",12
-2022-11-09,"Semen",0
-2022-11-09,"Total",8430
-2022-11-23,"Lesion swab",4952
-2022-11-23,"Lesion crust",2622
-2022-11-23,"Oropharyngeal swab",575
-2022-11-23,"Rectal swab",221
-2022-11-23,"Genital swab",90
-2022-11-23,"Urine",21
-2022-11-23,"Serum",13
-2022-11-23,"Semen",0
-2022-11-23,"Total",8494
-2022-12-07,"Lesion swab",4964
-2022-12-07,"Lesion crust",2617
-2022-12-07,"Oropharyngeal swab",577
-2022-12-07,"Rectal swab",221
-2022-12-07,"Genital swab",90
-2022-12-07,"Urine",21
-2022-12-07,"Serum",13
-2022-12-07,"Semen",0
-2022-12-07,"Total",8503
-2022-12-21,"Lesion swab",4974
-2022-12-21,"Lesion crust",2625
-2022-12-21,"Oropharyngeal swab",578
-2022-12-21,"Rectal swab",221
-2022-12-21,"Genital swab",90
-2022-12-21,"Urine",21
-2022-12-21,"Serum",13
-2022-12-21,"Semen",0
-2022-12-21,"Total",8522
+data_bulletin;specimen;cases
+2022-06-22;Lesion swab;42
+2022-06-22;Oropharyngeal swab;17
+2022-06-22;Lesion crust;8
+2022-06-22;Rectal swab;7
+2022-06-22;Urine;1
+2022-06-22;Serum;0
+2022-06-22;Semen;0
+2022-06-22;Genital swab;0
+2022-06-22;Total;75
+2022-06-29;Lesion swab;86
+2022-06-29;Oropharyngeal swab;37
+2022-06-29;Lesion crust;29
+2022-06-29;Rectal swab;16
+2022-06-29;Genital swab;5
+2022-06-29;Urine;1
+2022-06-29;Serum;0
+2022-06-29;Semen;0
+2022-06-29;Total;174
+2022-07-06;Lesion swab;126
+2022-07-06;Oropharyngeal swab;58
+2022-07-06;Lesion crust;43
+2022-07-06;Rectal swab;35
+2022-07-06;Genital swab;11
+2022-07-06;Urine;1
+2022-07-06;Serum;0
+2022-07-06;Semen;0
+2022-07-06;Total;274
+2022-07-13;Lesion swab;188
+2022-07-13;Oropharyngeal swab;77
+2022-07-13;Rectal swab;62
+2022-07-13;Lesion crust;58
+2022-07-13;Genital swab;13
+2022-07-13;Urine;5
+2022-07-13;Serum;0
+2022-07-13;Semen;0
+2022-07-13;Total;403
+2022-07-20;Lesion swab;285
+2022-07-20;Oropharyngeal swab;128
+2022-07-20;Rectal swab;96
+2022-07-20;Lesion crust;74
+2022-07-20;Genital swab;23
+2022-07-20;Urine;7
+2022-07-20;Serum;0
+2022-07-20;Semen;0
+2022-07-20;Total;613
+2022-07-27;Lesion swab;374
+2022-07-27;Oropharyngeal swab;162
+2022-07-27;Rectal swab;133
+2022-07-27;Lesion crust;84
+2022-07-27;Genital swab;26
+2022-07-27;Urine;10
+2022-07-27;Serum;1
+2022-07-27;Semen;0
+2022-07-27;Total;790
+2022-08-03;Lesion swab;499
+2022-08-03;Oropharyngeal swab;245
+2022-08-03;Rectal swab;176
+2022-08-03;Lesion crust;78
+2022-08-03;Genital swab;65
+2022-08-03;Urine;12
+2022-08-03;Serum;3
+2022-08-03;Semen;0
+2022-08-03;Total;1078
+2022-08-10;Lesion swab;587
+2022-08-10;Oropharyngeal swab;305
+2022-08-10;Rectal swab;191
+2022-08-10;Lesion crust;85
+2022-08-10;Genital swab;71
+2022-08-10;Urine;18
+2022-08-10;Serum;6
+2022-08-10;Semen;0
+2022-08-10;Total;1263
+2022-08-17;Lesion swab;3227
+2022-08-17;Lesion crust;1956
+2022-08-17;Oropharyngeal swab;369
+2022-08-17;Rectal swab;200
+2022-08-17;Genital swab;76
+2022-08-17;Urine;18
+2022-08-17;Serum;8
+2022-08-17;Semen;0
+2022-08-17;Total;5854
+2022-08-24;Lesion swab;3650
+2022-08-24;Lesion crust;2274
+2022-08-24;Oropharyngeal swab;391
+2022-08-24;Rectal swab;202
+2022-08-24;Genital swab;76
+2022-08-24;Urine;18
+2022-08-24;Serum;8
+2022-08-24;Semen;0
+2022-08-24;Total;6619
+2022-08-31;Lesion swab;3845
+2022-08-31;Lesion crust;2360
+2022-08-31;Oropharyngeal swab;436
+2022-08-31;Rectal swab;208
+2022-08-31;Genital swab;80
+2022-08-31;Urine;20
+2022-08-31;Serum;8
+2022-08-31;Semen;0
+2022-08-31;Total;6957
+2022-09-06;Lesion swab;3994
+2022-09-06;Lesion crust;2440
+2022-09-06;Oropharyngeal swab;452
+2022-09-06;Rectal swab;209
+2022-09-06;Genital swab;84
+2022-09-06;Urine;20
+2022-09-06;Serum;10
+2022-09-06;Semen;0
+2022-09-06;Total;7209
+2022-09-14;Lesion swab;4458
+2022-09-14;Lesion crust;2449
+2022-09-14;Oropharyngeal swab;473
+2022-09-14;Rectal swab;213
+2022-09-14;Genital swab;85
+2022-09-14;Urine;20
+2022-09-14;Serum;11
+2022-09-14;Semen;0
+2022-09-14;Total;7709
+2022-09-21;Lesion swab;4542
+2022-09-21;Lesion crust;2506
+2022-09-21;Oropharyngeal swab;488
+2022-09-21;Rectal swab;215
+2022-09-21;Genital swab;86
+2022-09-21;Urine;20
+2022-09-21;Serum;12
+2022-09-21;Semen;0
+2022-09-21;Total;7869
+2022-09-28;Lesion swab;4653
+2022-09-28;Lesion crust;2536
+2022-09-28;Oropharyngeal swab;536
+2022-09-28;Rectal swab;216
+2022-09-28;Genital swab;87
+2022-09-28;Urine;20
+2022-09-28;Serum;12
+2022-09-28;Semen;0
+2022-09-28;Total;8060
+2022-10-05;Lesion swab;4800
+2022-10-05;Lesion crust;2556
+2022-10-05;Oropharyngeal swab;552
+2022-10-05;Rectal swab;220
+2022-10-05;Genital swab;89
+2022-10-05;Urine;20
+2022-10-05;Serum;12
+2022-10-05;Semen;0
+2022-10-05;Total;8249
+2022-10-12;Lesion swab;4835
+2022-10-12;Lesion crust;2570
+2022-10-12;Oropharyngeal swab;558
+2022-10-12;Rectal swab;221
+2022-10-12;Genital swab;89
+2022-10-12;Urine;20
+2022-10-12;Serum;12
+2022-10-12;Semen;0
+2022-10-12;Total;8305
+2022-10-19;Lesion swab;4845
+2022-10-19;Lesion crust;2573
+2022-10-19;Oropharyngeal swab;564
+2022-10-19;Rectal swab;221
+2022-10-19;Genital swab;90
+2022-10-19;Urine;20
+2022-10-19;Serum;12
+2022-10-19;Semen;0
+2022-10-19;Total;8325
+2022-10-26;Lesion swab;4907
+2022-10-26;Lesion crust;2599
+2022-10-26;Oropharyngeal swab;569
+2022-10-26;Rectal swab;221
+2022-10-26;Genital swab;90
+2022-10-26;Urine;21
+2022-10-26;Serum;12
+2022-10-26;Semen;0
+2022-10-26;Total;8419
+2022-11-09;Lesion swab;4913
+2022-11-09;Lesion crust;2600
+2022-11-09;Oropharyngeal swab;573
+2022-11-09;Rectal swab;221
+2022-11-09;Genital swab;90
+2022-11-09;Urine;21
+2022-11-09;Serum;12
+2022-11-09;Semen;0
+2022-11-09;Total;8430
+2022-11-23;Lesion swab;4952
+2022-11-23;Lesion crust;2622
+2022-11-23;Oropharyngeal swab;575
+2022-11-23;Rectal swab;221
+2022-11-23;Genital swab;90
+2022-11-23;Urine;21
+2022-11-23;Serum;13
+2022-11-23;Semen;0
+2022-11-23;Total;8494
+2022-12-07;Lesion swab;4964
+2022-12-07;Lesion crust;2617
+2022-12-07;Oropharyngeal swab;577
+2022-12-07;Rectal swab;221
+2022-12-07;Genital swab;90
+2022-12-07;Urine;21
+2022-12-07;Serum;13
+2022-12-07;Semen;0
+2022-12-07;Total;8503
+2022-12-21;Lesion swab;4974
+2022-12-21;Lesion crust;2625
+2022-12-21;Oropharyngeal swab;578
+2022-12-21;Rectal swab;221
+2022-12-21;Genital swab;90
+2022-12-21;Urine;21
+2022-12-21;Serum;13
+2022-12-21;Semen;0
+2022-12-21;Total;8522
+2023-01-04;Lesion swab;4974
+2023-01-04;Lesion crust;2627
+2023-01-04;Oropharyngeal swab;578
+2023-01-04;Rectal swab;221
+2023-01-04;Genital swab;90
+2023-01-04;Urine;21
+2023-01-04;Serum;13
+2023-01-04;Semen;0
+2023-01-04;Total;8524

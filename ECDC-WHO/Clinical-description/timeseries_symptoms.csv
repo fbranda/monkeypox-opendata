@@ -1,382 +1,399 @@
-"data_bulletin","symptoms","cases","percent"
-2022-06-17,"Any type of rash",275,96.5
-2022-06-17,"Systemic Symptoms",34,11.9
-2022-06-17,"Localized lymphadenopathy",138,48.4
-2022-06-17,"Generalized lymphadenopathy",12,4.2
-2022-06-17,"Respiratory symptoms",5,1.8
-2022-06-17,"Asymptomatic",0,0
-2022-06-17,"Oral or ano-genital rash",187,65.6
-2022-06-17,"Rash outside of the oro/ano/genital areas",242,84.9
-2022-06-22,"Anogenital dermatological lesions",465,70.5
-2022-06-22,"Any type of rash",645,97.7
-2022-06-22,"Asymptomatic",0,0
-2022-06-22,"Conjunctivitis",5,0.8
-2022-06-22,"Generalized lymphadenopathy",61,9.2
-2022-06-22,"Localized lymphadenopathy",325,49.2
-2022-06-22,"Oral dermatological lesions",49,7.4
-2022-06-22,"Other",9,1.4
-2022-06-22,"Rash (unknown location)",1,0.2
-2022-06-22,"Respiratory symptoms",34,5.2
-2022-06-22,"Skin/mucosal lesions (excl. oral or anogenital areas)",504,76.4
-2022-06-22,"Systemic symptoms",471,71.4
-2022-06-29,"Any type of rash",1411,95
-2022-06-29,"Systemic symptoms",1078,72.6
-2022-06-29,"Skin/mucosal lesions (excl. oral or anogenital areas)",1056,71.1
-2022-06-29,"Anogenital dermatological lesions",874,58.9
-2022-06-29,"Localized lymphadenopathy",642,43.2
-2022-06-29,"Generalized lymphadenopathy",134,9
-2022-06-29,"Oral dermatological lesions",133,9
-2022-06-29,"Respiratory symptoms",70,4.7
-2022-06-29,"Other",57,3.8
-2022-06-29,"Rash (unknown location)",15,1
-2022-06-29,"Conjunctivitis",7,0.5
-2022-06-29,"Asymptomatic",1,0.1
-2022-07-06,"Any type of rash",2684,96.1
-2022-07-06,"Systemic symptoms",1931,69.1
-2022-07-06,"Skin/mucosal lesions (excl. oral or anogenital areas)",1272,45.5
-2022-07-06,"Anogenital dermatological lesions",1078,38.6
-2022-07-06,"Rash (unknown location)",990,35.4
-2022-07-06,"Localized lymphadenopathy",760,27.2
-2022-07-06,"Lymphadenopathy (unknown location)",325,11.6
-2022-07-06,"Generalized lymphadenopathy",170,6.1
-2022-07-06,"Oral dermatological lesions",153,5.5
-2022-07-06,"Respiratory symptoms",105,3.8
-2022-07-06,"Other",24,0.9
-2022-07-06,"Anal/rectal pain and/or rectal bleeding and/or proctitis",14,0.5
-2022-07-06,"Conjunctivitis",9,0.3
-2022-07-06,"Sensitivity to light",4,0.1
-2022-07-06,"Asymptomatic",1,0
-2022-07-13,"Any type of rash",3505,95.2
-2022-07-13,"Systemic symptoms",2346,63.7
-2022-07-13,"Skin/mucosal lesions (excl. oral or anogenital areas)",1617,43.9
-2022-07-13,"Anogenital dermatological lesions",1373,37.3
-2022-07-13,"Rash (unknown location)",1310,35.6
-2022-07-13,"Localized lymphadenopathy",861,23.4
-2022-07-13,"Lymphadenopathy (unknown location)",424,11.5
-2022-07-13,"Generalized lymphadenopathy",199,5.4
-2022-07-13,"Oral dermatological lesions",183,5
-2022-07-13,"Respiratory symptoms",108,2.9
-2022-07-13,"Other",32,0.9
-2022-07-13,"Anal/rectal pain and/or rectal bleeding and/or proctitis",16,0.4
-2022-07-13,"Conjunctivitis",10,0.3
-2022-07-13,"Asymptomatic",2,0.1
-2022-07-13,"Sensitivity to light",5,0.1
-2022-07-20,"Any type of rash",4726,94.5
-2022-07-20,"Systemic Symptoms",3269,65.3
-2022-07-20,"Skin/mucosal lesions (excl. oral or anogenital areas)",2139,42.8
-2022-07-20,"Anogenital dermatological lesions",1948,38.9
-2022-07-20,"Rash (unknown location)",1489,29.8
-2022-07-20,"Localized lymphadenopathy",1256,25.1
-2022-07-20,"Oral dermatological lesions",597,11.9
-2022-07-20,"Generalized lymphadenopathy",500,10
-2022-07-20,"Lymphadenopathy (unknown location)",484,9.7
-2022-07-20,"Other",182,3.6
-2022-07-20,"Respiratory symptoms",130,2.6
-2022-07-20,"Anal/rectal pain and/or rectal bleeding and/or proctitis",17,0.3
-2022-07-20,"Conjunctivitis",10,0.2
-2022-07-20,"Sensitivity to light",5,0.1
-2022-07-20,"Asymptomatic",2,0
-2022-07-27,"Any type of rash",7259,94.7
-2022-07-27,"Systemic symptoms",5105,66.6
-2022-07-27,"Skin/mucosal lesions (excl. oral or anogenital areas)",3465,45.2
-2022-07-27,"Anogenital dermatological lesions",3233,42.2
-2022-07-27,"Rash (unknown location)",2038,26.6
-2022-07-27,"Generalized lymphadenopathy",2038,19.2
-2022-07-27,"Localized lymphadenopathy",1385,18.1
-2022-07-27,"Oral dermatological lesions",974,12.7
-2022-07-27,"Lymphadenopathy (unknown location)",687,9
-2022-07-27,"Other",216,2.8
-2022-07-27,"Respiratory symptoms",113,1.5
-2022-07-27,"Anal/rectal pain and/or rectal bleeding and/or proctitis",26,0.3
-2022-07-27,"Asymptomatic",7,0.1
-2022-07-27,"Conjunctivitis",8,0.1
-2022-07-27,"Sensitivity to light",6,0.1
-2022-08-03,"Any type of rash",9126,94.8
-2022-08-03,"Systemic Symptoms",6300,65.4
-2022-08-03,"Skin/mucosal lesions (excl. oral or anogenital areas)",4494,46.7
-2022-08-03,"Anogenital dermatological lesions",4317,44.8
-2022-08-03,"Localized lymphadenopathy",2842,29.5
-2022-08-03,"Rash (unknown location)",2379,24.7
-2022-08-03,"Oral dermatological lesions",1109,11.5
-2022-08-03,"Sore throat",855,8.9
-2022-08-03,"Lymphadenopathy (unknown location)",787,8.2
-2022-08-03,"Generalized lymphadenopathy",729,7.6
-2022-08-03,"Other",274,2.8
-2022-08-03,"Respiratory symptoms",140,1.5
-2022-08-03,"Vomiting or nausea",64,0.7
-2022-08-03,"Anal/rectal pain and/or rectal bleeding and/or proctitis",36,0.4
-2022-08-03,"Sensitivity to light",8,0.1
-2022-08-03,"Conjunctivitis",8,0.1
-2022-08-03,"Asymptomatic",8,0.1
-2022-08-10,"Any type of rash",10046,94.8
-2022-08-10,"Systemic Symptoms",6875,64.9
-2022-08-10,"Skin/mucosal lesions (excl. oral or anogenital areas)",4981,47
-2022-08-10,"Anogenital dermatological lesions",4709,44.5
-2022-08-10,"Localized lymphadenopathy",3083,29.1
-2022-08-10,"Rash (unknown location)",2632,24.8
-2022-08-10,"Oral dermatological lesions",1178,11.1
-2022-08-10,"Sore throat",929,8.8
-2022-08-10,"Lymphadenopathy",879,8.3
-2022-08-10,"Generalized lymphadenopathy",772,7.3
-2022-08-10,"Other",294,2.8
-2022-08-10,"Respiratory symptoms",150,1.4
-2022-08-10,"Vomiting or nausea",72,0.7
-2022-08-10,"Anal/rectal pain and/or rectal bleeding and/or proctitis",42,0.4
-2022-08-10,"Asymptomatic",9,0.1
-2022-08-10,"Sensitivity to light",8,0.1
-2022-08-10,"Conjunctivitis",8,0.1
-2022-08-17,"Any type of rash",8937,77.1
-2022-08-17,"Systemic Symptoms",7495,64.7
-2022-08-17,"Skin/mucosal lesions (excl. oral or anogenital areas)",5424,46.8
-2022-08-17,"Localized lymphadenopathy",3342,28.8
-2022-08-17,"Rash (unknown location)",2871,24.8
-2022-08-17,"Oral dermatological lesions",1274,11
-2022-08-17,"Generalized lymphadenopathy",820,7.1
-2022-08-17,"Other",323,2.8
-2022-08-17,"Respiratory symptoms",185,1.6
-2022-08-17,"Vomiting or nausea",52,0.4
-2022-08-17,"Anal/rectal pain and/or rectal bleeding and/or proctitis",41,0.4
-2022-08-17,"Sensitivity to light",9,0.1
-2022-08-17,"Conjunctivitis",9,0.1
-2022-08-17,"Asymptomatic",9,0.1
-2022-08-17,"Sore throat",6,0.1
-2022-08-17,"Lymphadenopathy (unknown location)",4,0
-2022-08-17,"Anogenital dermatological lesions",3,0
-2022-08-24,"Any type of rash",12415,95
-2022-08-24,"Systemic Symptoms",8476,64.8
-2022-08-24,"Skin/mucosal lesions (excl. oral or anogenital areas)",6343,48.5
-2022-08-24,"Anogenital dermatological lesions",5973,45.7
-2022-08-24,"Localized lymphadenopathy",3885,29.7
-2022-08-24,"Rash (unknown location)",2998,22.9
-2022-08-24,"Oral dermatological lesions",1410,10.8
-2022-08-24,"Sore throat",1318,10.1
-2022-08-24,"Lymphadenopathy (unknown location)",1011,7.7
-2022-08-24,"Generalized lymphadenopathy",476,3.6
-2022-08-24,"Other",339,2.6
-2022-08-24,"Respiratory symptoms",182,1.4
-2022-08-24,"Vomiting or nausea",138,1.1
-2022-08-24,"Anal/rectal pain and/or rectal bleeding and/or proctitis",40,0.3
-2022-08-24,"Asymptomatic",11,0.1
-2022-08-24,"Conjunctivitis",10,0.1
-2022-08-24,"Sensitivity to light",9,0.1
-2022-08-31,"Any type of rash",10470,76.5
-2022-08-31,"Systemic Symptoms",9294,67.9
-2022-08-31,"Skin/mucosal lesions (excl. oral or anogenital areas)",6682,48.8
-2022-08-31,"Localized lymphadenopathy",4498,32.9
-2022-08-31,"Rash (unknown location)",3069,22.4
-2022-08-31,"Oral dermatological lesions",1590,11.6
-2022-08-31,"Lymphadenopathy (unknown location)",1046,7.6
-2022-08-31,"Generalized lymphadenopathy",502,3.7
-2022-08-31,"Other",355,2.6
-2022-08-31,"Anal/rectal pain and/or rectal bleeding and/or proctitis",285,2.1
-2022-08-31,"Respiratory symptoms",226,1.7
-2022-08-31,"Vomiting or nausea",119,0.9
-2022-08-31,"Anogenital dermatological lesions",68,0.5
-2022-08-31,"Sore throat",56,0.4
-2022-08-31,"Conjunctivitis",30,0.2
-2022-08-31,"Sensitivity to light",10,0.1
-2022-08-31,"Asymptomatic",10,0.1
-2022-09-06,"Any type of rash",10889,76.5
-2022-09-06,"Systemic Symptoms",9705,68.1
-2022-09-06,"Skin/mucosal lesions (excl. oral or anogenital areas)",6982,49
-2022-09-06,"Localized lymphadenopathy",4652,32.7
-2022-09-06,"Rash (unknown location)",3180,22.3
-2022-09-06,"Oral dermatological lesions",1636,11.5
-2022-09-06,"Lymphadenopathy (unknown location)",1099,7.7
-2022-09-06,"Generalized lymphadenopathy",564,4
-2022-09-06,"Other",363,2.5
-2022-09-06,"Anal/rectal pain and/or rectal bleeding and/or proctitis",292,2.1
-2022-09-06,"Respiratory symptoms",228,1.6
-2022-09-06,"Vomiting or nausea",121,0.8
-2022-09-06,"Anogenital dermatological lesions",70,0.5
-2022-09-06,"Sore throat",56,0.4
-2022-09-06,"Conjunctivitis",31,0.2
-2022-09-06,"Sensitivity to light",10,0.1
-2022-09-06,"Asymptomatic",9,0.1
-2022-09-14,"Any type of rash",11172,76.4
-2022-09-14,"Systemic Symptoms",9933,67.9
-2022-09-14,"Skin/mucosal lesions (excl. oral or anogenital areas)",7203,49.3
-2022-09-14,"Localized lymphadenopathy",4776,32.7
-2022-09-14,"Rash (unknown location)",3234,22.1
-2022-09-14,"Oral dermatological lesions",1666,11.4
-2022-09-14,"Lymphadenopathy (unknown location)",1130,7.7
-2022-09-14,"Generalized lymphadenopathy",580,4
-2022-09-14,"Other",366,2.5
-2022-09-14,"Anal/rectal pain and/or rectal bleeding and/or proctitis",310,2.1
-2022-09-14,"Respiratory symptoms",222,1.5
-2022-09-14,"Vomiting or nausea",121,0.8
-2022-09-14,"Anogenital dermatological lesions",73,0.5
-2022-09-14,"Sore throat",60,0.4
-2022-09-14,"Conjunctivitis",31,0.2
-2022-09-14,"Sensitivity to light",10,0.1
-2022-09-14,"Asymptomatic",10,0.1
-2022-09-21,"Any type of rash",11400,76.3
-2022-09-21,"Systemic Symptoms",10123,67.8
-2022-09-21,"Skin/mucosal lesions (excl. oral or anogenital areas)",7399,49.6
-2022-09-21,"Localized lymphadenopathy",4859,32.5
-2022-09-21,"Rash (unknown location)",3265,21.9
-2022-09-21,"Oral dermatological lesions",1688,11.3
-2022-09-21,"Lymphadenopathy (unknown location)",1139,7.6
-2022-09-21,"Generalized lymphadenopathy",589,3.9
-2022-09-21,"Other",368,2.5
-2022-09-21,"Anal/rectal pain and/or rectal bleeding and/or proctitis",323,2.2
-2022-09-21,"Respiratory symptoms",230,1.5
-2022-09-21,"Vomiting or nausea",123,0.8
-2022-09-21,"Anogenital dermatological lesions",73,0.5
-2022-09-21,"Sore throat",61,0.4
-2022-09-21,"Conjunctivitis",34,0.2
-2022-09-21,"Sensitivity to light",10,0.1
-2022-09-21,"Asymptomatic",10,0.1
-2022-09-28,"Any type of rash",14504,95.5
-2022-09-28,"Systemic Symptoms",10299,67.8
-2022-09-28,"Skin/mucosal lesions (excl. oral or anogenital areas)",7516,49.5
-2022-09-28,"Anogenital dermatological lesions",7376,48.6
-2022-09-28,"Localized lymphadenopathy",4952,32.6
-2022-09-28,"Rash (unknown location)",3304,21.8
-2022-09-28,"Oral dermatological lesions",1708,11.2
-2022-09-28,"Sore throat",1704,11.2
-2022-09-28,"Lymphadenopathy (unknown location)",1154,7.6
-2022-09-28,"Generalized lymphadenopathy",599,3.9
-2022-09-28,"Other",369,2.4
-2022-09-28,"Anal/rectal pain and/or rectal bleeding and/or proctitis",324,2.1
-2022-09-28,"Respiratory symptoms",232,1.5
-2022-09-28,"Vomiting or nausea",124,0.8
-2022-09-28,"Conjunctivitis",34,0.2
-2022-09-28,"Asymptomatic",11,0.1
-2022-09-28,"Sensitivity to light",10,0.1
-2022-10-05,"Any type of rash",14677,95.5
-2022-10-05,"Systemic Symptoms",10417,67.8
-2022-10-05,"Skin/mucosal lesions (excl. oral or anogenital areas)",7595,49.4
-2022-10-05,"Anogenital dermatological lesions",7492,48.7
-2022-10-05,"Localized lymphadenopathy",5010,32.6
-2022-10-05,"Rash (unknown location)",3331,21.7
-2022-10-05,"Oral dermatological lesions",1725,11.2
-2022-10-05,"Sore throat",1722,11.2
-2022-10-05,"Lymphadenopathy (unknown location)",1162,7.6
-2022-10-05,"Generalized lymphadenopathy",605,3.9
-2022-10-05,"Other",377,2.5
-2022-10-05,"Anal/rectal pain and/or rectal bleeding and/or proctitis",336,2.2
-2022-10-05,"Respiratory symptoms",233,1.5
-2022-10-05,"Vomiting or nausea",126,0.8
-2022-10-05,"Conjunctivitis",37,0.2
-2022-10-05,"Asymptomatic",11,0.1
-2022-10-05,"Sensitivity to light",10,0.1
-2022-10-12,"Any type of rash",14764,95.5
-2022-10-12,"Systemic Symptoms",10495,67.9
-2022-10-12,"Skin/mucosal lesions (excl. oral or anogenital areas)",7645,49.5
-2022-10-12,"Anogenital dermatological lesions",7537,48.8
-2022-10-12,"Localized lymphadenopathy",5035,32.6
-2022-10-12,"Rash (unknown location)",3348,21.7
-2022-10-12,"Oral dermatological lesions",1735,11.2
-2022-10-12,"Sore throat",1732,11.2
-2022-10-12,"Lymphadenopathy (unknown location)",1555,10.1
-2022-10-12,"Generalized lymphadenopathy",610,3.9
-2022-10-12,"Other",379,2.5
-2022-10-12,"Anal/rectal pain and/or rectal bleeding and/or proctitis",297,1.9
-2022-10-12,"Respiratory symptoms",243,1.6
-2022-10-12,"Vomiting or nausea",107,0.7
-2022-10-12,"Conjunctivitis",35,0.2
-2022-10-12,"Asymptomatic",11,0.1
-2022-10-12,"Sensitivity to light",10,0.1
-2022-10-19,"Any type of rash",14825,95.5
-2022-10-19,"Systemic Symptoms",10531,67.8
-2022-10-19,"Skin/mucosal lesions (excl. oral or anogenital areas)",7687,49.5
-2022-10-19,"Anogenital dermatological lesions",7564,48.7
-2022-10-19,"Localized lymphadenopathy",5053,32.5
-2022-10-19,"Rash (unknown location)",3352,21.6
-2022-10-19,"Sore throat",1738,11.2
-2022-10-19,"Oral dermatological lesions",1737,11.2
-2022-10-19,"Lymphadenopathy (unknown location)",1555,10
-2022-10-19,"Generalized lymphadenopathy",618,4
-2022-10-19,"Other",381,2.5
-2022-10-19,"Anal/rectal pain and/or rectal bleeding and/or proctitis",301,1.9
-2022-10-19,"Respiratory symptoms",244,1.6
-2022-10-19,"Vomiting or nausea",109,0.7
-2022-10-19,"Conjunctivitis",35,0.2
-2022-10-19,"Asymptomatic",11,0.1
-2022-10-19,"Sensitivity to light",10,0.1
-2022-10-26,"Any type of rash",14969,95.5
-2022-10-26,"Systemic symptoms",10641,67.9
-2022-10-26,"Skin/mucosal lesions (excl. oral or anogenital areas)",7775,49.6
-2022-10-26,"Anogenital dermatological lesions",7650,48.8
-2022-10-26,"Localized lymphadenopathy",5102,32.5
-2022-10-26,"Rash (unknown location)",3369,21.5
-2022-10-26,"Sore throat",1757,11.2
-2022-10-26,"Oral dermatological lesions",1758,11.2
-2022-10-26,"Lymphadenopathy (unknown location)",1563,10
-2022-10-26,"Generalized lymphadenopathy",622,4
-2022-10-26,"Other",381,2.4
-2022-10-26,"Anal/rectal pain and/or rectal bleeding and/or proctitis",307,2
-2022-10-26,"Respiratory symptoms",246,1.6
-2022-10-26,"Vomiting or nausea",110,0.7
-2022-10-26,"Conjunctivitis",35,0.2
-2022-10-26,"Asymptomatic",11,0.1
-2022-10-26,"Sensitivity to light",10,0.1
-2022-11-09,"Any type of rash",15021,95.5
-2022-11-09,"Systemic symptoms",10661,67.8
-2022-11-09,"Skin/mucosal lesions (excl. oral or anogenital areas)",7808,49.6
-2022-11-09,"Anogenital dermatological lesions",7668,48.8
-2022-11-09,"Localized lymphadenopathy",5112,32.5
-2022-11-09,"Rash (unknown location)",3373,21.4
-2022-11-09,"Sore throat",1762,11.2
-2022-11-09,"Oral dermatological lesions",1762,11.2
-2022-11-09,"Lymphadenopathy (unknown location)",1564,9.9
-2022-11-09,"Generalized lymphadenopathy",625,4
-2022-11-09,"Other",383,2.4
-2022-11-09,"Anal/rectal pain and/or rectal bleeding and/or proctitis",309,2
-2022-11-09,"Respiratory symptoms",249,1.6
-2022-11-09,"Vomiting or nausea",111,0.7
-2022-11-09,"Conjunctivitis",35,0.2
-2022-11-09,"Asymptomatic",11,0.1
-2022-11-09,"Sensitivity to light",10,0.1
-2022-11-23,"Any type of rash",15116,95.5
-2022-11-23,"Systemic symptoms",10731,67.8
-2022-11-23,"Skin/mucosal lesions (excl. oral or anogenital areas)",7884,49.8
-2022-11-23,"Anogenital dermatological lesions",7737,48.9
-2022-11-23,"Localized lymphadenopathy",5157,32.6
-2022-11-23,"Rash (unknown location)",3376,21.3
-2022-11-23,"Sore throat",1766,11.2
-2022-11-23,"Oral dermatological lesions",1769,11.2
-2022-11-23,"Lymphadenopathy (unknown location)",1566,9.9
-2022-11-23,"Generalized lymphadenopathy",625,3.9
-2022-11-23,"Other",386,2.4
-2022-11-23,"Anal/rectal pain and/or rectal bleeding and/or proctitis",311,2
-2022-11-23,"Respiratory symptoms",250,1.6
-2022-11-23,"Vomiting or nausea",113,0.7
-2022-11-23,"Conjunctivitis",35,0.2
-2022-11-23,"Asymptomatic",11,0.1
-2022-11-23,"Sensitivity to light",10,0.1
-2022-12-07,"Any type of rash",15134,95.5
-2022-12-07,"Systemic symptoms",10734,67.7
-2022-12-07,"Skin/mucosal lesions (excl. oral or anogenital areas)",7905,49.9
-2022-12-07,"Anogenital dermatological lesions",7753,48.9
-2022-12-07,"Localized lymphadenopathy",5164,32.6
-2022-12-07,"Rash (unknown location)",3370,21.3
-2022-12-07,"Sore throat",1767,11.1
-2022-12-07,"Oral dermatological lesions",1760,11.1
-2022-12-07,"Lymphadenopathy (unknown location)",1569,9.9
-2022-12-07,"Generalized lymphadenopathy",627,4
-2022-12-07,"Other",387,2.4
-2022-12-07,"Anal/rectal pain and/or rectal bleeding and/or proctitis",311,2
-2022-12-07,"Respiratory symptoms",245,1.5
-2022-12-07,"Vomiting or nausea",109,0.7
-2022-12-07,"Conjunctivitis",34,0.2
-2022-12-07,"Asymptomatic",11,0.1
-2022-12-07,"Sensitivity to light",10,0.1
-2022-12-21,"Any type of rash",15172,95.5
-2022-12-21,"Systemic symptoms",10755,67.7
-2022-12-21,"Skin/mucosal lesions (excl. oral or anogenital areas)",7934,49.9
-2022-12-21,"Anogenital dermatological lesions",7765,48.9
-2022-12-21,"Localized lymphadenopathy",5178,32.6
-2022-12-21,"Rash (unknown location)",3371,21.2
-2022-12-21,"Sore throat",1775,11.2
-2022-12-21,"Oral dermatological lesions",1763,11.1
-2022-12-21,"Lymphadenopathy (unknown location)",1569,9.9
-2022-12-21,"Generalized lymphadenopathy",627,3.9
-2022-12-21,"Other",388,2.4
-2022-12-21,"Anal/rectal pain and/or rectal bleeding and/or proctitis",312,2
-2022-12-21,"Respiratory symptoms",245,1.5
-2022-12-21,"Vomiting or nausea",109,0.7
-2022-12-21,"Conjunctivitis",34,0.2
-2022-12-21,"Asymptomatic",11,0.1
-2022-12-21,"Sensitivity to light",10,0.1
+data_bulletin;symptoms;cases;percent
+2022-06-17;Any type of rash;275;96.5
+2022-06-17;Systemic Symptoms;34;11.9
+2022-06-17;Localized lymphadenopathy;138;48.4
+2022-06-17;Generalized lymphadenopathy;12;4.2
+2022-06-17;Respiratory symptoms;5;1.8
+2022-06-17;Asymptomatic;0;0
+2022-06-17;Oral or ano-genital rash;187;65.6
+2022-06-17;Rash outside of the oro/ano/genital areas;242;84.9
+2022-06-22;Anogenital dermatological lesions;465;70.5
+2022-06-22;Any type of rash;645;97.7
+2022-06-22;Asymptomatic;0;0
+2022-06-22;Conjunctivitis;5;0.8
+2022-06-22;Generalized lymphadenopathy;61;9.2
+2022-06-22;Localized lymphadenopathy;325;49.2
+2022-06-22;Oral dermatological lesions;49;7.4
+2022-06-22;Other;9;1.4
+2022-06-22;Rash (unknown location);1;0.2
+2022-06-22;Respiratory symptoms;34;5.2
+2022-06-22;Skin/mucosal lesions (excl. oral or anogenital areas);504;76.4
+2022-06-22;Systemic symptoms;471;71.4
+2022-06-29;Any type of rash;1411;95
+2022-06-29;Systemic symptoms;1078;72.6
+2022-06-29;Skin/mucosal lesions (excl. oral or anogenital areas);1056;71.1
+2022-06-29;Anogenital dermatological lesions;874;58.9
+2022-06-29;Localized lymphadenopathy;642;43.2
+2022-06-29;Generalized lymphadenopathy;134;9
+2022-06-29;Oral dermatological lesions;133;9
+2022-06-29;Respiratory symptoms;70;4.7
+2022-06-29;Other;57;3.8
+2022-06-29;Rash (unknown location);15;1
+2022-06-29;Conjunctivitis;7;0.5
+2022-06-29;Asymptomatic;1;0.1
+2022-07-06;Any type of rash;2684;96.1
+2022-07-06;Systemic symptoms;1931;69.1
+2022-07-06;Skin/mucosal lesions (excl. oral or anogenital areas);1272;45.5
+2022-07-06;Anogenital dermatological lesions;1078;38.6
+2022-07-06;Rash (unknown location);990;35.4
+2022-07-06;Localized lymphadenopathy;760;27.2
+2022-07-06;Lymphadenopathy (unknown location);325;11.6
+2022-07-06;Generalized lymphadenopathy;170;6.1
+2022-07-06;Oral dermatological lesions;153;5.5
+2022-07-06;Respiratory symptoms;105;3.8
+2022-07-06;Other;24;0.9
+2022-07-06;Anal/rectal pain and/or rectal bleeding and/or proctitis;14;0.5
+2022-07-06;Conjunctivitis;9;0.3
+2022-07-06;Sensitivity to light;4;0.1
+2022-07-06;Asymptomatic;1;0
+2022-07-13;Any type of rash;3505;95.2
+2022-07-13;Systemic symptoms;2346;63.7
+2022-07-13;Skin/mucosal lesions (excl. oral or anogenital areas);1617;43.9
+2022-07-13;Anogenital dermatological lesions;1373;37.3
+2022-07-13;Rash (unknown location);1310;35.6
+2022-07-13;Localized lymphadenopathy;861;23.4
+2022-07-13;Lymphadenopathy (unknown location);424;11.5
+2022-07-13;Generalized lymphadenopathy;199;5.4
+2022-07-13;Oral dermatological lesions;183;5
+2022-07-13;Respiratory symptoms;108;2.9
+2022-07-13;Other;32;0.9
+2022-07-13;Anal/rectal pain and/or rectal bleeding and/or proctitis;16;0.4
+2022-07-13;Conjunctivitis;10;0.3
+2022-07-13;Asymptomatic;2;0.1
+2022-07-13;Sensitivity to light;5;0.1
+2022-07-20;Any type of rash;4726;94.5
+2022-07-20;Systemic Symptoms;3269;65.3
+2022-07-20;Skin/mucosal lesions (excl. oral or anogenital areas);2139;42.8
+2022-07-20;Anogenital dermatological lesions;1948;38.9
+2022-07-20;Rash (unknown location);1489;29.8
+2022-07-20;Localized lymphadenopathy;1256;25.1
+2022-07-20;Oral dermatological lesions;597;11.9
+2022-07-20;Generalized lymphadenopathy;500;10
+2022-07-20;Lymphadenopathy (unknown location);484;9.7
+2022-07-20;Other;182;3.6
+2022-07-20;Respiratory symptoms;130;2.6
+2022-07-20;Anal/rectal pain and/or rectal bleeding and/or proctitis;17;0.3
+2022-07-20;Conjunctivitis;10;0.2
+2022-07-20;Sensitivity to light;5;0.1
+2022-07-20;Asymptomatic;2;0
+2022-07-27;Any type of rash;7259;94.7
+2022-07-27;Systemic symptoms;5105;66.6
+2022-07-27;Skin/mucosal lesions (excl. oral or anogenital areas);3465;45.2
+2022-07-27;Anogenital dermatological lesions;3233;42.2
+2022-07-27;Rash (unknown location);2038;26.6
+2022-07-27;Generalized lymphadenopathy;2038;19.2
+2022-07-27;Localized lymphadenopathy;1385;18.1
+2022-07-27;Oral dermatological lesions;974;12.7
+2022-07-27;Lymphadenopathy (unknown location);687;9
+2022-07-27;Other;216;2.8
+2022-07-27;Respiratory symptoms;113;1.5
+2022-07-27;Anal/rectal pain and/or rectal bleeding and/or proctitis;26;0.3
+2022-07-27;Asymptomatic;7;0.1
+2022-07-27;Conjunctivitis;8;0.1
+2022-07-27;Sensitivity to light;6;0.1
+2022-08-03;Any type of rash;9126;94.8
+2022-08-03;Systemic Symptoms;6300;65.4
+2022-08-03;Skin/mucosal lesions (excl. oral or anogenital areas);4494;46.7
+2022-08-03;Anogenital dermatological lesions;4317;44.8
+2022-08-03;Localized lymphadenopathy;2842;29.5
+2022-08-03;Rash (unknown location);2379;24.7
+2022-08-03;Oral dermatological lesions;1109;11.5
+2022-08-03;Sore throat;855;8.9
+2022-08-03;Lymphadenopathy (unknown location);787;8.2
+2022-08-03;Generalized lymphadenopathy;729;7.6
+2022-08-03;Other;274;2.8
+2022-08-03;Respiratory symptoms;140;1.5
+2022-08-03;Vomiting or nausea;64;0.7
+2022-08-03;Anal/rectal pain and/or rectal bleeding and/or proctitis;36;0.4
+2022-08-03;Sensitivity to light;8;0.1
+2022-08-03;Conjunctivitis;8;0.1
+2022-08-03;Asymptomatic;8;0.1
+2022-08-10;Any type of rash;10046;94.8
+2022-08-10;Systemic Symptoms;6875;64.9
+2022-08-10;Skin/mucosal lesions (excl. oral or anogenital areas);4981;47
+2022-08-10;Anogenital dermatological lesions;4709;44.5
+2022-08-10;Localized lymphadenopathy;3083;29.1
+2022-08-10;Rash (unknown location);2632;24.8
+2022-08-10;Oral dermatological lesions;1178;11.1
+2022-08-10;Sore throat;929;8.8
+2022-08-10;Lymphadenopathy;879;8.3
+2022-08-10;Generalized lymphadenopathy;772;7.3
+2022-08-10;Other;294;2.8
+2022-08-10;Respiratory symptoms;150;1.4
+2022-08-10;Vomiting or nausea;72;0.7
+2022-08-10;Anal/rectal pain and/or rectal bleeding and/or proctitis;42;0.4
+2022-08-10;Asymptomatic;9;0.1
+2022-08-10;Sensitivity to light;8;0.1
+2022-08-10;Conjunctivitis;8;0.1
+2022-08-17;Any type of rash;8937;77.1
+2022-08-17;Systemic Symptoms;7495;64.7
+2022-08-17;Skin/mucosal lesions (excl. oral or anogenital areas);5424;46.8
+2022-08-17;Localized lymphadenopathy;3342;28.8
+2022-08-17;Rash (unknown location);2871;24.8
+2022-08-17;Oral dermatological lesions;1274;11
+2022-08-17;Generalized lymphadenopathy;820;7.1
+2022-08-17;Other;323;2.8
+2022-08-17;Respiratory symptoms;185;1.6
+2022-08-17;Vomiting or nausea;52;0.4
+2022-08-17;Anal/rectal pain and/or rectal bleeding and/or proctitis;41;0.4
+2022-08-17;Sensitivity to light;9;0.1
+2022-08-17;Conjunctivitis;9;0.1
+2022-08-17;Asymptomatic;9;0.1
+2022-08-17;Sore throat;6;0.1
+2022-08-17;Lymphadenopathy (unknown location);4;0
+2022-08-17;Anogenital dermatological lesions;3;0
+2022-08-24;Any type of rash;12415;95
+2022-08-24;Systemic Symptoms;8476;64.8
+2022-08-24;Skin/mucosal lesions (excl. oral or anogenital areas);6343;48.5
+2022-08-24;Anogenital dermatological lesions;5973;45.7
+2022-08-24;Localized lymphadenopathy;3885;29.7
+2022-08-24;Rash (unknown location);2998;22.9
+2022-08-24;Oral dermatological lesions;1410;10.8
+2022-08-24;Sore throat;1318;10.1
+2022-08-24;Lymphadenopathy (unknown location);1011;7.7
+2022-08-24;Generalized lymphadenopathy;476;3.6
+2022-08-24;Other;339;2.6
+2022-08-24;Respiratory symptoms;182;1.4
+2022-08-24;Vomiting or nausea;138;1.1
+2022-08-24;Anal/rectal pain and/or rectal bleeding and/or proctitis;40;0.3
+2022-08-24;Asymptomatic;11;0.1
+2022-08-24;Conjunctivitis;10;0.1
+2022-08-24;Sensitivity to light;9;0.1
+2022-08-31;Any type of rash;10470;76.5
+2022-08-31;Systemic Symptoms;9294;67.9
+2022-08-31;Skin/mucosal lesions (excl. oral or anogenital areas);6682;48.8
+2022-08-31;Localized lymphadenopathy;4498;32.9
+2022-08-31;Rash (unknown location);3069;22.4
+2022-08-31;Oral dermatological lesions;1590;11.6
+2022-08-31;Lymphadenopathy (unknown location);1046;7.6
+2022-08-31;Generalized lymphadenopathy;502;3.7
+2022-08-31;Other;355;2.6
+2022-08-31;Anal/rectal pain and/or rectal bleeding and/or proctitis;285;2.1
+2022-08-31;Respiratory symptoms;226;1.7
+2022-08-31;Vomiting or nausea;119;0.9
+2022-08-31;Anogenital dermatological lesions;68;0.5
+2022-08-31;Sore throat;56;0.4
+2022-08-31;Conjunctivitis;30;0.2
+2022-08-31;Sensitivity to light;10;0.1
+2022-08-31;Asymptomatic;10;0.1
+2022-09-06;Any type of rash;10889;76.5
+2022-09-06;Systemic Symptoms;9705;68.1
+2022-09-06;Skin/mucosal lesions (excl. oral or anogenital areas);6982;49
+2022-09-06;Localized lymphadenopathy;4652;32.7
+2022-09-06;Rash (unknown location);3180;22.3
+2022-09-06;Oral dermatological lesions;1636;11.5
+2022-09-06;Lymphadenopathy (unknown location);1099;7.7
+2022-09-06;Generalized lymphadenopathy;564;4
+2022-09-06;Other;363;2.5
+2022-09-06;Anal/rectal pain and/or rectal bleeding and/or proctitis;292;2.1
+2022-09-06;Respiratory symptoms;228;1.6
+2022-09-06;Vomiting or nausea;121;0.8
+2022-09-06;Anogenital dermatological lesions;70;0.5
+2022-09-06;Sore throat;56;0.4
+2022-09-06;Conjunctivitis;31;0.2
+2022-09-06;Sensitivity to light;10;0.1
+2022-09-06;Asymptomatic;9;0.1
+2022-09-14;Any type of rash;11172;76.4
+2022-09-14;Systemic Symptoms;9933;67.9
+2022-09-14;Skin/mucosal lesions (excl. oral or anogenital areas);7203;49.3
+2022-09-14;Localized lymphadenopathy;4776;32.7
+2022-09-14;Rash (unknown location);3234;22.1
+2022-09-14;Oral dermatological lesions;1666;11.4
+2022-09-14;Lymphadenopathy (unknown location);1130;7.7
+2022-09-14;Generalized lymphadenopathy;580;4
+2022-09-14;Other;366;2.5
+2022-09-14;Anal/rectal pain and/or rectal bleeding and/or proctitis;310;2.1
+2022-09-14;Respiratory symptoms;222;1.5
+2022-09-14;Vomiting or nausea;121;0.8
+2022-09-14;Anogenital dermatological lesions;73;0.5
+2022-09-14;Sore throat;60;0.4
+2022-09-14;Conjunctivitis;31;0.2
+2022-09-14;Sensitivity to light;10;0.1
+2022-09-14;Asymptomatic;10;0.1
+2022-09-21;Any type of rash;11400;76.3
+2022-09-21;Systemic Symptoms;10123;67.8
+2022-09-21;Skin/mucosal lesions (excl. oral or anogenital areas);7399;49.6
+2022-09-21;Localized lymphadenopathy;4859;32.5
+2022-09-21;Rash (unknown location);3265;21.9
+2022-09-21;Oral dermatological lesions;1688;11.3
+2022-09-21;Lymphadenopathy (unknown location);1139;7.6
+2022-09-21;Generalized lymphadenopathy;589;3.9
+2022-09-21;Other;368;2.5
+2022-09-21;Anal/rectal pain and/or rectal bleeding and/or proctitis;323;2.2
+2022-09-21;Respiratory symptoms;230;1.5
+2022-09-21;Vomiting or nausea;123;0.8
+2022-09-21;Anogenital dermatological lesions;73;0.5
+2022-09-21;Sore throat;61;0.4
+2022-09-21;Conjunctivitis;34;0.2
+2022-09-21;Sensitivity to light;10;0.1
+2022-09-21;Asymptomatic;10;0.1
+2022-09-28;Any type of rash;14504;95.5
+2022-09-28;Systemic Symptoms;10299;67.8
+2022-09-28;Skin/mucosal lesions (excl. oral or anogenital areas);7516;49.5
+2022-09-28;Anogenital dermatological lesions;7376;48.6
+2022-09-28;Localized lymphadenopathy;4952;32.6
+2022-09-28;Rash (unknown location);3304;21.8
+2022-09-28;Oral dermatological lesions;1708;11.2
+2022-09-28;Sore throat;1704;11.2
+2022-09-28;Lymphadenopathy (unknown location);1154;7.6
+2022-09-28;Generalized lymphadenopathy;599;3.9
+2022-09-28;Other;369;2.4
+2022-09-28;Anal/rectal pain and/or rectal bleeding and/or proctitis;324;2.1
+2022-09-28;Respiratory symptoms;232;1.5
+2022-09-28;Vomiting or nausea;124;0.8
+2022-09-28;Conjunctivitis;34;0.2
+2022-09-28;Asymptomatic;11;0.1
+2022-09-28;Sensitivity to light;10;0.1
+2022-10-05;Any type of rash;14677;95.5
+2022-10-05;Systemic Symptoms;10417;67.8
+2022-10-05;Skin/mucosal lesions (excl. oral or anogenital areas);7595;49.4
+2022-10-05;Anogenital dermatological lesions;7492;48.7
+2022-10-05;Localized lymphadenopathy;5010;32.6
+2022-10-05;Rash (unknown location);3331;21.7
+2022-10-05;Oral dermatological lesions;1725;11.2
+2022-10-05;Sore throat;1722;11.2
+2022-10-05;Lymphadenopathy (unknown location);1162;7.6
+2022-10-05;Generalized lymphadenopathy;605;3.9
+2022-10-05;Other;377;2.5
+2022-10-05;Anal/rectal pain and/or rectal bleeding and/or proctitis;336;2.2
+2022-10-05;Respiratory symptoms;233;1.5
+2022-10-05;Vomiting or nausea;126;0.8
+2022-10-05;Conjunctivitis;37;0.2
+2022-10-05;Asymptomatic;11;0.1
+2022-10-05;Sensitivity to light;10;0.1
+2022-10-12;Any type of rash;14764;95.5
+2022-10-12;Systemic Symptoms;10495;67.9
+2022-10-12;Skin/mucosal lesions (excl. oral or anogenital areas);7645;49.5
+2022-10-12;Anogenital dermatological lesions;7537;48.8
+2022-10-12;Localized lymphadenopathy;5035;32.6
+2022-10-12;Rash (unknown location);3348;21.7
+2022-10-12;Oral dermatological lesions;1735;11.2
+2022-10-12;Sore throat;1732;11.2
+2022-10-12;Lymphadenopathy (unknown location);1555;10.1
+2022-10-12;Generalized lymphadenopathy;610;3.9
+2022-10-12;Other;379;2.5
+2022-10-12;Anal/rectal pain and/or rectal bleeding and/or proctitis;297;1.9
+2022-10-12;Respiratory symptoms;243;1.6
+2022-10-12;Vomiting or nausea;107;0.7
+2022-10-12;Conjunctivitis;35;0.2
+2022-10-12;Asymptomatic;11;0.1
+2022-10-12;Sensitivity to light;10;0.1
+2022-10-19;Any type of rash;14825;95.5
+2022-10-19;Systemic Symptoms;10531;67.8
+2022-10-19;Skin/mucosal lesions (excl. oral or anogenital areas);7687;49.5
+2022-10-19;Anogenital dermatological lesions;7564;48.7
+2022-10-19;Localized lymphadenopathy;5053;32.5
+2022-10-19;Rash (unknown location);3352;21.6
+2022-10-19;Sore throat;1738;11.2
+2022-10-19;Oral dermatological lesions;1737;11.2
+2022-10-19;Lymphadenopathy (unknown location);1555;10
+2022-10-19;Generalized lymphadenopathy;618;4
+2022-10-19;Other;381;2.5
+2022-10-19;Anal/rectal pain and/or rectal bleeding and/or proctitis;301;1.9
+2022-10-19;Respiratory symptoms;244;1.6
+2022-10-19;Vomiting or nausea;109;0.7
+2022-10-19;Conjunctivitis;35;0.2
+2022-10-19;Asymptomatic;11;0.1
+2022-10-19;Sensitivity to light;10;0.1
+2022-10-26;Any type of rash;14969;95.5
+2022-10-26;Systemic symptoms;10641;67.9
+2022-10-26;Skin/mucosal lesions (excl. oral or anogenital areas);7775;49.6
+2022-10-26;Anogenital dermatological lesions;7650;48.8
+2022-10-26;Localized lymphadenopathy;5102;32.5
+2022-10-26;Rash (unknown location);3369;21.5
+2022-10-26;Sore throat;1757;11.2
+2022-10-26;Oral dermatological lesions;1758;11.2
+2022-10-26;Lymphadenopathy (unknown location);1563;10
+2022-10-26;Generalized lymphadenopathy;622;4
+2022-10-26;Other;381;2.4
+2022-10-26;Anal/rectal pain and/or rectal bleeding and/or proctitis;307;2
+2022-10-26;Respiratory symptoms;246;1.6
+2022-10-26;Vomiting or nausea;110;0.7
+2022-10-26;Conjunctivitis;35;0.2
+2022-10-26;Asymptomatic;11;0.1
+2022-10-26;Sensitivity to light;10;0.1
+2022-11-09;Any type of rash;15021;95.5
+2022-11-09;Systemic symptoms;10661;67.8
+2022-11-09;Skin/mucosal lesions (excl. oral or anogenital areas);7808;49.6
+2022-11-09;Anogenital dermatological lesions;7668;48.8
+2022-11-09;Localized lymphadenopathy;5112;32.5
+2022-11-09;Rash (unknown location);3373;21.4
+2022-11-09;Sore throat;1762;11.2
+2022-11-09;Oral dermatological lesions;1762;11.2
+2022-11-09;Lymphadenopathy (unknown location);1564;9.9
+2022-11-09;Generalized lymphadenopathy;625;4
+2022-11-09;Other;383;2.4
+2022-11-09;Anal/rectal pain and/or rectal bleeding and/or proctitis;309;2
+2022-11-09;Respiratory symptoms;249;1.6
+2022-11-09;Vomiting or nausea;111;0.7
+2022-11-09;Conjunctivitis;35;0.2
+2022-11-09;Asymptomatic;11;0.1
+2022-11-09;Sensitivity to light;10;0.1
+2022-11-23;Any type of rash;15116;95.5
+2022-11-23;Systemic symptoms;10731;67.8
+2022-11-23;Skin/mucosal lesions (excl. oral or anogenital areas);7884;49.8
+2022-11-23;Anogenital dermatological lesions;7737;48.9
+2022-11-23;Localized lymphadenopathy;5157;32.6
+2022-11-23;Rash (unknown location);3376;21.3
+2022-11-23;Sore throat;1766;11.2
+2022-11-23;Oral dermatological lesions;1769;11.2
+2022-11-23;Lymphadenopathy (unknown location);1566;9.9
+2022-11-23;Generalized lymphadenopathy;625;3.9
+2022-11-23;Other;386;2.4
+2022-11-23;Anal/rectal pain and/or rectal bleeding and/or proctitis;311;2
+2022-11-23;Respiratory symptoms;250;1.6
+2022-11-23;Vomiting or nausea;113;0.7
+2022-11-23;Conjunctivitis;35;0.2
+2022-11-23;Asymptomatic;11;0.1
+2022-11-23;Sensitivity to light;10;0.1
+2022-12-07;Any type of rash;15134;95.5
+2022-12-07;Systemic symptoms;10734;67.7
+2022-12-07;Skin/mucosal lesions (excl. oral or anogenital areas);7905;49.9
+2022-12-07;Anogenital dermatological lesions;7753;48.9
+2022-12-07;Localized lymphadenopathy;5164;32.6
+2022-12-07;Rash (unknown location);3370;21.3
+2022-12-07;Sore throat;1767;11.1
+2022-12-07;Oral dermatological lesions;1760;11.1
+2022-12-07;Lymphadenopathy (unknown location);1569;9.9
+2022-12-07;Generalized lymphadenopathy;627;4
+2022-12-07;Other;387;2.4
+2022-12-07;Anal/rectal pain and/or rectal bleeding and/or proctitis;311;2
+2022-12-07;Respiratory symptoms;245;1.5
+2022-12-07;Vomiting or nausea;109;0.7
+2022-12-07;Conjunctivitis;34;0.2
+2022-12-07;Asymptomatic;11;0.1
+2022-12-07;Sensitivity to light;10;0.1
+2022-12-21;Any type of rash;15172;95.5
+2022-12-21;Systemic symptoms;10755;67.7
+2022-12-21;Skin/mucosal lesions (excl. oral or anogenital areas);7934;49.9
+2022-12-21;Anogenital dermatological lesions;7765;48.9
+2022-12-21;Localized lymphadenopathy;5178;32.6
+2022-12-21;Rash (unknown location);3371;21.2
+2022-12-21;Sore throat;1775;11.2
+2022-12-21;Oral dermatological lesions;1763;11.1
+2022-12-21;Lymphadenopathy (unknown location);1569;9.9
+2022-12-21;Generalized lymphadenopathy;627;3.9
+2022-12-21;Other;388;2.4
+2022-12-21;Anal/rectal pain and/or rectal bleeding and/or proctitis;312;2
+2022-12-21;Respiratory symptoms;245;1.5
+2022-12-21;Vomiting or nausea;109;0.7
+2022-12-21;Conjunctivitis;34;0.2
+2022-12-21;Asymptomatic;11;0.1
+2022-12-21;Sensitivity to light;10;0.1
+2023-01-04;Any type of rash;15199;95.5
+2023-01-04;Systemic symptoms;10766;67.7
+2023-01-04;Skin/mucosal lesions (excl. oral or anogenital areas);7959;50
+2023-01-04;Anogenital dermatological lesions;7773;48.8
+2023-01-04;Localized lymphadenopathy;5193;32.6
+2023-01-04;Rash (unknown location);3371;21.2
+2023-01-04;Sore throat;1777;11.2
+2023-01-04;Oral dermatological lesions;1765;11.1
+2023-01-04;Lymphadenopathy (unknown location);1569;9.9
+2023-01-04;Generalized lymphadenopathy;628;3.9
+2023-01-04;Other;391;2.5
+2023-01-04;Anal/rectal pain and/or rectal bleeding and/or proctitis;313;2
+2023-01-04;Respiratory symptoms;245;1.5
+2023-01-04;Vomiting or nausea;109;0.7
+2023-01-04;Conjunctivitis;34;0.2
+2023-01-04;Asymptomatic;11;0.1
+2023-01-04;Sensitivity to light;10;0.1

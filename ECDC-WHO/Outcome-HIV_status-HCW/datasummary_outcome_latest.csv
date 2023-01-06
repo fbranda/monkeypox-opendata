@@ -1,5 +1,5 @@
-"outcome","yes","no","total"
-"Admitted to ICU",7,6970,6977
-"Hospitalized",771,11260,12031
-"Died",5,17891,17896
-"HIV-Positive",3926,6431,10357
+outcome;yes;no;total
+Admitted to ICU;7;6974;6981
+Hospitalized;773;11290;12063
+Died;5;17921;17926
+HIV-Positive;3927;6439;10366

@@ -1,18 +1,18 @@
-"symptoms","cases","percent"
-"Any type of rash",15172,95.5
-"Systemic symptoms",10755,67.7
-"Skin/mucosal lesions (excl. oral or anogenital areas)",7934,49.9
-"Anogenital dermatological lesions",7765,48.9
-"Localized lymphadenopathy",5178,32.6
-"Rash (unknown location)",3371,21.2
-"Sore throat",1775,11.2
-"Oral dermatological lesions",1763,11.1
-"Lymphadenopathy (unknown location)",1569,9.9
-"Generalized lymphadenopathy",627,3.9
-"Other",388,2.4
-"Anal/rectal pain and/or rectal bleeding and/or proctitis",312,2
-"Respiratory symptoms",245,1.5
-"Vomiting or nausea",109,0.7
-"Conjunctivitis",34,0.2
-"Asymptomatic",11,0.1
-"Sensitivity to light",10,0.1
+symptoms;cases;percent
+Any type of rash;15199;95.5
+Systemic symptoms;10766;67.7
+Skin/mucosal lesions (excl. oral or anogenital areas);7959;50
+Anogenital dermatological lesions;7773;48.8
+Localized lymphadenopathy;5193;32.6
+Rash (unknown location);3371;21.2
+Sore throat;1777;11.2
+Oral dermatological lesions;1765;11.1
+Lymphadenopathy (unknown location);1569;9.9
+Generalized lymphadenopathy;628;3.9
+Other;391;2.5
+Anal/rectal pain and/or rectal bleeding and/or proctitis;313;2
+Respiratory symptoms;245;1.5
+Vomiting or nausea;109;0.7
+Conjunctivitis;34;0.2
+Asymptomatic;11;0.1
+Sensitivity to light;10;0.1
